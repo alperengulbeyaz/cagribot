@@ -550,6 +550,30 @@ def _kalip_topla(ham, url, limit, kalip, dis_link=False):
     return sonuc
 
 
+def _satir_topla(ham, url, limit, satir):
+    """Bağlantısı olmayan (tıklama ile açılan) listeler için: `satir` seçicisiyle her satırı alır.
+    Başlık = satırdaki en uzun metin, tarih = satırdaki tarih. Bağlantı = liste sayfası (+ başlığa özel #işaret)."""
+    soup = BeautifulSoup(ham, "html.parser")
+    sonuc = []
+    for li in soup.select(satir):
+        metinler = [" ".join(x.get_text(" ", strip=True).split()) for x in li.find_all(["h1", "h2", "h3", "h4", "h5", "h6", "p", "span", "a"])]
+        tarih = tarih_norm(li.get_text(" ", strip=True))
+        adaylar = [_temiz_baslik(t) for t in metinler if t and not TARIH_RE.fullmatch(t.strip())]
+        adaylar = [t for t in adaylar if len(t) >= 8]
+        if not adaylar:
+            continue
+        baslik = max(adaylar, key=len)
+        if kucult(baslik).startswith(("henüz duyuru", "daha önceki")):
+            continue
+        a = li.find("a", href=True)
+        link = urljoin(url, a["href"]) if a and not a["href"].startswith(("#", "javascript:")) else \
+            url.split("#")[0] + "#" + re.sub(r"\W+", "-", kucult(baslik))[:60]
+        sonuc.append({"baslik": baslik, "link": link, "tarih": tarih})
+        if len(sonuc) >= limit:
+            break
+    return sonuc
+
+
 def liste_cek(url, limit, secici=None, dis_link=False, js=False, kalip=None, satir=None):
     # a) WordPress API
     if not secici and not dis_link and not js and not kalip and not satir:
