@@ -1,1 +1,2326 @@
-[]
+[
+ {
+  "baslik": "Öncelikli Ar-Ge ve Yenilik Konuları",
+  "link": "https://www.tubitak.gov.tr/tr/kurumsal/politikalar/tubitak-2026-2028-oncelikli-ar-ge-ve-yenilik-konulari",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Öncelikli ve Kilit Teknolojilerde TYH'ler",
+  "link": "https://www.tubitak.gov.tr/tr/kurumsal/politikalar/oncelikli-ve-kilit-teknolojilerde-btypk-bunyesinde-hazirlanan-teknoloji-yol-haritalari",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Girişimci ve Yenilikçi Üniversite Endeksi",
+  "link": "https://www.tubitak.gov.tr/tr/kurumsal/politikalar/girisimci-ve-yenilikci-universite-endeksi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Üniversitelerin Alan Bazlı Yetkinlik Analizi",
+  "link": "https://www.tubitak.gov.tr/tr/kurumsal/politikalar/universitelerin-alan-bazli-yetkinlik-analizi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Teknoloji Hazırlık Seviyesi (THS) Belirleme",
+  "link": "https://www.tubitak.gov.tr/tr/kurumsal/politikalar/tubitak-teknoloji-hazirlik-seviyesi-belirleme-metodolojisi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Geçmiş Yıllarda Ödül Alanlar",
+  "link": "https://www.tubitak.gov.tr/tr/kurumsal/oduller/gecmis-yillarda-odul-alanlar",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Üretken Yapay Zekâ Rehberi",
+  "link": "https://www.tubitak.gov.tr/tr/kurumsal/hakkimizda/uretken-yapay-zeka-rehberi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Uluslararası İş Birlikleri",
+  "link": "https://www.tubitak.gov.tr/tr/destekler/uluslararasi-is-birlikleri",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "İkili İş Birliği Programları",
+  "link": "https://www.tubitak.gov.tr/tr/destekler/uluslararasi-is-birlikleri/ikili-is-birligi-programlari",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Mentorluk Desteği Programı",
+  "link": "https://www.tubitak.gov.tr/tr/burslar/lisans/mentorluk-destegi-programi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Araştırma Burs Programları",
+  "link": "https://www.tubitak.gov.tr/tr/burslar/lisansustu/arastirma-burs-programlari",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Araştırma Burs Programları",
+  "link": "https://www.tubitak.gov.tr/tr/burslar/doktora-sonrasi/arastirma-burs-programlari",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Araştırma Burs Programları",
+  "link": "https://www.tubitak.gov.tr/tr/burslar/yabancilara-yonelik/arastirma-burs-programlari",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Malzeme ve Proses Teknolojileri",
+  "link": "https://malzeme.mam.tubitak.gov.tr/",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Bilişim Teknolojileri Enstitüsü (BTE)",
+  "link": "https://bilgem.tubitak.gov.tr/bte/",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Siber Güvenlik Enstitüsü (SGE)",
+  "link": "https://bilgem.tubitak.gov.tr/sge/",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Ulusal Elektronik ve Kriptoloji Araştırma Enstitüsü (UEKAE)",
+  "link": "https://bilgem.tubitak.gov.tr/uekae/",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Yapay Zekâ Enstitüsü (YZE)",
+  "link": "https://bilgem.tubitak.gov.tr/yze/",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Yazılım Teknolojileri Araştırma Enstitüsü (YTE)",
+  "link": "https://bilgem.tubitak.gov.tr/yte/",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "İleri Teknolojiler Araştırma Enstitüsü (İLTAREN)",
+  "link": "https://bilgem.tubitak.gov.tr/iltaren/",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Raylı Ulaşım Teknolojileri Enstitüsü (RUTE)",
+  "link": "http://rute.tubitak.gov.tr/",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Savunma Sanayii Araştırma ve Geliştirme Enstitüsü (SAGE)",
+  "link": "http://www.sage.tubitak.gov.tr/",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Temel Bilimler Araştırma Enstitüsü (TBAE)",
+  "link": "http://tbae.tubitak.gov.tr/",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Temiz Enerji, İklim Değişikliği ve Sürdürülebilirlik Araştırma Enstitüsü",
+  "link": "https://tubitak.gov.tr/tr",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Türkiye Sanayi Sevk ve İdare Enstitüsü (TÜSSİDE)",
+  "link": "http://tusside.tubitak.gov.tr/",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Ulusal Metroloji Enstitüsü (UME)",
+  "link": "http://www.ume.tubitak.gov.tr/",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Uzay Teknolojileri Araştırma Enstitüsü (UZAY)",
+  "link": "http://uzay.tubitak.gov.tr/",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Kutup Araştırmaları Enstitüsü (KARE)",
+  "link": "https://kare.tubitak.gov.tr/",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Bursa Test ve Analiz Laboratuvarı (BUTAL)",
+  "link": "http://butal.tubitak.gov.tr/",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Ulusal Akademik Ağ ve Bilgi Merkezi (ULAKBİM)",
+  "link": "http://ulakbim.tubitak.gov.tr/",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "2573–Endonezya Ulusal Araştırma ve Yenilik Ajansı (BRIN) ile İkili İşbirliği Programı Başvuru Sonuçları Açıklandı",
+  "link": "https://www.tubitak.gov.tr/tr/duyuru/2573-endonezya-ulusal-arastirma-ve-yenilik-ajansi-brin-ile-ikili-isbirligi-programi-basvuru-sonuclari-aciklandi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "1007 Programı Balistik Kıyafet Geliştirilmesi Projesi Çağrısı Açıldı",
+  "link": "https://www.tubitak.gov.tr/tr/duyuru/1007-programi-balistik-kiyafet-gelistirilmesi-projesi-cagrisi-acildi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "1007 Programı Balistik Amaçlı Aromatik Poliamid Geliştirilmesi Projesi Çağrısı Açıldı",
+  "link": "https://www.tubitak.gov.tr/tr/duyuru/1007-programi-balistik-amacli-aromatik-poliamid-gelistirilmesi-projesi-cagrisi-acildi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "2531 – TÜBİTAK & DAAD (Almanya) İkili İş Birliği Seyahat Destek Programı 7. Çağrısı Açıldı",
+  "link": "https://www.tubitak.gov.tr/tr/duyuru/2531-tubitak-daad-almanya-ikili-birligi-seyahat-destek-programi-7-cagrisi-acildi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "BiGG Yatırım 2026 Yılı 1. Çağrısı’nın Sonuçları Belli Oldu",
+  "link": "https://www.tubitak.gov.tr/tr/duyuru/bigg-yatirim-2026-yili-1-cagrisinin-sonuclari-belli-oldu",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "BiodivERsA+ 2026 Yılı “Yeni Ekosistemler: Biyoçeşitlilik, Sosyo-Ekolojik Sonuçlar ve Gelecekteki Seyirler – BiodivFuture” Başlıklı Çağrısı Açıldı",
+  "link": "https://www.tubitak.gov.tr/tr/duyuru/biodiversa-2026-yili-yeni-ekosistemler-biyocesitlilik-sosyo-ekolojik-sonuclar-ve-gelecekteki-seyirler-biodivfuture-baslikli-cagrisi-acildi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "2531 Alman Akademik Değişim Servisi (DAAD) ile İkili İş Birliği Programı Başvuru Sonuçları Açıklandı",
+  "link": "https://www.tubitak.gov.tr/tr/duyuru/2531-alman-akademik-degisim-servisi-daad-ile-ikili-birligi-programi-basvuru-sonuclari-aciklandi-2",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "2209-A Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı ve 2209-B Üniversite Öğrencileri Sanayiye Yönelik Araştırma Projeleri Desteği Programı 2026 Yılı Çağrıları Açıldı",
+  "link": "https://www.tubitak.gov.tr/tr/duyuru/2209-universite-ogrencileri-arastirma-projeleri-destekleme-programi-ve-2209-b-universite-ogrencileri-sanayiye-yonelik-arastirma-projeleri-destegi-programi-2026-yili-cagrilari-acildi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "2224-Bilimsel Etkinliklere Katılımı Destekleme Programları 2026 Yılı 3. Dönem Çağrıları Açıldı",
+  "link": "https://www.tubitak.gov.tr/tr/duyuru/2224-bilimsel-etkinliklere-katilimi-destekleme-programlari-2026-yili-3-donem-cagrilari-acildi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "2247–A Ulusal Lider Araştırmacılar Programı ve 2247–D Ulusal Genç Liderler Programı 2026 Yılı Çağrıları Açıldı",
+  "link": "https://www.tubitak.gov.tr/tr/duyuru/2247-ulusal-lider-arastirmacilar-programi-ve-2247-d-ulusal-genc-liderler-programi-2026-yili-cagrilari-acildi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Eureka Globalstars Japonya 2026 Çağrısı Açıldı",
+  "link": "https://www.tubitak.gov.tr/tr/duyuru/eureka-globalstars-japonya-2026-cagrisi-acildi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "2572 TÜBİTAK–Ürdün Ulusal Araştırma Geliştirme Merkezi (NCRD) İkili İşbirliği Çağrısı Başvuruya Açıldı",
+  "link": "https://www.tubitak.gov.tr/tr/duyuru/2572-tubitak-urdun-ulusal-arastirma-gelistirme-merkezi-ncrd-ikili-isbirligi-cagrisi-basvuruya-acildi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "2211-Yurt İçi Doktora Burs Programları 2026 Yılı 2. Dönem Çağrıları Başvuruya Açıldı",
+  "link": "https://www.tubitak.gov.tr/tr/duyuru/2211-yurt-ici-doktora-burs-programlari-2026-yili-2-donem-cagrilari-basvuruya-acildi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "2210-Yurt İçi Yüksek Lisans Burs Programları 2026 Yılı 2. Dönem Çağrıları Açıldı",
+  "link": "https://www.tubitak.gov.tr/tr/duyuru/2210-yurt-ici-yuksek-lisans-burs-programlari-2026-yili-2-donem-cagrilari-acildi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "2205-Lisans Burs Programı 2026 Yılı 2. Dönem Çağrısı Açıldı",
+  "link": "https://www.tubitak.gov.tr/tr/duyuru/2205-lisans-burs-programi-2026-yili-2-donem-cagrisi-acildi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "2223-Yurt İçi Bilimsel Etkinlikleri Destekleme Programları 2026 Yılı 3. Dönem Çağrıları Açıldı",
+  "link": "https://www.tubitak.gov.tr/tr/duyuru/2223-yurt-ici-bilimsel-etkinlikleri-destekleme-programlari-2026-yili-3-donem-cagrilari-acildi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "TÜBİTAK Bilim Söyleşileri 2026 Yılı Başvuruları Başladı",
+  "link": "https://www.tubitak.gov.tr/tr/duyuru/tubitak-bilim-soylesileri-2026-yili-basvurulari-basladi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "1007 Programı Alternatif Haberleşme Sistemi Geliştirilmesi Projesi Çağrısı Açıldı",
+  "link": "https://www.tubitak.gov.tr/tr/duyuru/1007-programi-alternatif-haberlesme-sistemi-gelistirilmesi-projesi-cagrisi-acildi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Transfer Takip Sistemi (TTS)",
+  "link": "https://www.tubitak.gov.tr/tr/destekler/akademik/uygulamalar-ve-yonergeler/tts-transfer-takip-sistemi",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Remzi Oğuz Arık Mah. Tunus Cad. No:80 06680 Çankaya/ANKARA",
+  "link": "https://www.google.com/maps/place/T%C3%9CB%C4%B0TAK/@39.9047815,32.8561887,17z/data=!3m1!4b1!4m6!3m5!1s0x14d34fa3d338a531:0x1db0b942620e8828!8m2!3d39.9047774!4d32.8587636!16s%2Fg%2F1tdjtc4g?entry=ttu",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "tubitak.baskanlik@tubitak.hs03.kep.tr",
+  "link": "mailto:tubitak.baskanlik@tubitak.hs03.kep.tr",
+  "kaynak": "TÜBİTAK Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Genel Kurul ve İcra Komitesi",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/31/genel-kurul-ve-icra-komitesi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Vizyon, Misyon ve Temel Değerler",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/35/vizyon-misyon-ve-temel-degerler",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Hizmet Envanteri ve Hizmet Standartları Tablosu",
+  "link": "https://envanter.kaysis.gov.tr/?Kurum=80228899",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Bilgi Güvenliği Politikası",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6453/bilgi-guvenligi-politikasi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Girişimci Destek Programı",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/destekdetay/1231/girisimci-destek-programi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Kapasite Geliştirme Destek Programı",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/destekdetay/9200/kapasite-gelistirme-destek-programi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Küresel Rekabetçilik Destek Programı",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/destekdetay/9206/kuresel-rekabetcilik-destek-programi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "KOBİ Dijital Dönüşüm Destek Programı",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/destekdetay/9144/kobi-dijital-donusum-destek-programi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "YÖNDE - Yönderlik ve Değerlendirme Destek Programı",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/destekdetay/9165/yonde-yonderlik-ve-degerlendirme-destek-programi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "İstihdamı Koruma Destek Programı",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/destekdetay/9224/istihdami-koruma-destek-programi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Teknoloji Merkezi Destek Programı",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/destekdetay/9297/teknoloji-merkezi-destek-programi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Sektörel Gelişim Merkezi (SEGEM) Destek Programı",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/destekdetay/9327/sektorel-gelisim-merkezi-segem-destek-programi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Yapay Zekâ Kredi Programı Detaylı bilgi için tıklayınız.",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/destekdetay/9414/yapay-zek-kredi-programi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "TEKMER'ler Detaylı bilgi için tıklayınız.",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/tekmerlerimiz",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Çevrimiçi Eğitimler Giriş için tıklayınız.",
+  "link": "https://lms.kosgeb.gov.tr/",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Girişimci Destek Programı Yenilendi: Girişimcilere Yeni Destek Modeli",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9499/girisimci-destek-programi-yenilendi-girisimcilere-yeni-destek-modeli",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "KOBİ'lerin Küresel Rekabet Gücünü Artıracak Destek Programına Başvurular Başladı!",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9476/kobilerin-kuresel-rekabet-gucunu-artiracak-destek-programina-basvurular-basladi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "KOSGEB İşletme Değerlendirme Raporu ile İşletmenizin Geleceğini Planlayın",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9474/kosgeb-isletme-degerlendirme-raporu-ile-isletmenizin-gelecegini-planlayin",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "İstihdamı Koruma Destek Programının Kapsamı Genişletildi",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9471/istihdami-koruma-destek-programinin-kapsami-genisletildi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "KOBİ’lerin Büyümesine Güçlü Destek, Yeni Başvuru Dönemi Başladı!",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9467/kobilerin-buyumesine-guclu-destek-yeni-basvuru-donemi-basladi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "KOSGEB’den COP31 Odaklı Hızlandırma Desteği Çağrısı",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9453/kosgebden-cop31-odakli-hizlandirma-destegi-cagrisi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "KOSGEB'DEN TEKNOLOJİ GİRİŞİMLERİNE YAPAY ZEKÂ KREDİ PROGRAMI",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9427/kosgebden-teknoloji-girisimlerine-yapay-zek-kredi-programi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Üreten KOBİ’lere Güçlü Destek, Yeni Başvuru Dönemi Başladı",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9391/ureten-kobilere-guclu-destek-yeni-basvuru-donemi-basladi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Savunma, Uzay ve Havacılık Sanayii KOBİ’lerine KOSGEB’den 30 Milyon Liralık Destek",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9389/savunma-uzay-ve-havacilik-sanayii-kobilerine-kosgebden-30-milyon-liralik-destek",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Teknoloji Geliştirme Ekosistem Buluşması Gerçekleştirildi",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9388/teknoloji-gelistirme-ekosistem-bulusmasi-gerceklestirildi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "KOSGEB, Girişim Sermayesi Yatırım Fonlarına Katılıyor",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9385/kosgeb-girisim-sermayesi-yatirim-fonlarina-katiliyor",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Girişimci Destek Programı İş Geliştirme Çağrısı 2026 Yılı 2. Dönem Başvuruları Başladı",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9374/girisimci-destek-programi-is-gelistirme-cagrisi-2026-yili-2-donem-basvurulari-basladi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "İmalat Sanayine 100 Milyar TL’lik Kapsamlı Finansman Programı",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9363/imalat-sanayine-100-milyar-tllik-kapsamli-finansman-programi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "KOBİ’lerin Büyüme ve Gelişimine Güçlü Destek",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9353/kobilerin-buyume-ve-gelisimine-guclu-destek",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Refinansman Kefalet Programı Hayata Geçirildi",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9340/refinansman-kefalet-programi-hayata-gecirildi",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Tunus 10. Uluslararası Yedek Parça, Ekipman ve Endüstriyel Hizmetler Fuarı (SAPRI2026)",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9491/tunus-10-uluslararasi-yedek-parca-ekipman-ve-endustriyel-hizmetler-fuari-sapri2026",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "İdari Hizmet Sözleşmeli Destek Elemanı Alımı Sonuçları Hakkında Duyuru",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9490/idari-hizmet-sozlesmeli-destek-elemani-alimi-sonuclari-hakkinda-duyuru",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "\"TURKCHEM AZERBAIJAN 2027 SERGİSİ\" DUYURUSU",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9469/turkchem-azerbaijan-2027-sergisi-duyurusu",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "\"17. Orta Doğu Uluslararası İcat Fuarı\" (IIFME)",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9466/17-orta-dogu-uluslararasi-icat-fuari-iifme",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Desteklenen Sektörler Nelerdir? (NACE)",
+  "link": "https://www.kosgeb.gov.tr/site/tr/baglanti/DesteklenenSektor",
+  "kaynak": "KOSGEB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Kalkınma Ajansları Hakkında",
+  "link": "https://www.dogaka.gov.tr/kurumsal/kalkinma-ajanslari-hakkinda",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "KVKK Bilgilendirme ve İzin Metinleri",
+  "link": "https://www.dogaka.gov.tr/kurumsal/kvkk-bilgilendirme-ve-izin-metinleri",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Üst Ölçekli Plan ve Programlar",
+  "link": "https://www.dogaka.gov.tr/planlama/ust-olcekli-plan-ve-programlar",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Sektörel Araştırma Raporları",
+  "link": "https://www.dogaka.gov.tr/planlama/sektorel-arastirma-raporlari",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Program Sonrası Değerlendirme Raporları",
+  "link": "https://www.dogaka.gov.tr/destekler/program-sonrasi-degerlendirme-raporlari",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Doğrudan Faaliyet Desteği",
+  "link": "https://www.dogaka.gov.tr/destekler/dogrudan-faaliyet-destegi",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "T.C. Doğu Akdeniz Kalkınma Ajansı",
+  "link": "https://www.dogaka.gov.tr/bize-ulasin/t-c-dogu-akdeniz-kalkinma-ajansi",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "KalkınmaAjansları Yönetim Sistemi",
+  "link": "https://kaysuygulama.sanayi.gov.tr/Kays/KaysIstemci/giris.jsp",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "DOĞAKASıkça Sorulan Sorular",
+  "link": "https://www.dogaka.gov.tr/dogaka-sikca-sorulan-sorular",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "T.C. İSTANBUL KALKINMA AJANSI PERSONEL ALIM İLANI",
+  "link": "https://www.dogaka.gov.tr/duyuru/t-c-istanbul-kalkinma-ajansi-personel-alim-ilani/853",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Mevlana Kalkınma Ajansı Personel Alım İlanı",
+  "link": "https://www.dogaka.gov.tr/duyuru/mevlana-kalkinma-ajansi-personel-alim-ilani/852",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Orta Karadeniz Kalkınma Ajansı (OKA) Personel Alımı Duyurusu",
+  "link": "https://www.dogaka.gov.tr/duyuru/orta-karadeniz-kalkinma-ajansi-oka-personel-alimi-duyurusu/850",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "2025 Yılı Kalkınma Ajansları Sürdürülebilirlik Raporu Yayımlandı",
+  "link": "https://www.dogaka.gov.tr/duyuru/2025-yili-kalkinma-ajanslari-surdurulebilirlik-raporu-yayimlandi/849",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "DOĞU MARMARA KALKINMA AJANSI PERSONEL ALIM İLANI",
+  "link": "https://www.dogaka.gov.tr/duyuru/dogu-marmara-kalkinma-ajansi-personel-alim-ilani/848",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "2026 YILI YEŞİL DÖNÜŞÜM TEKNİK DESTEK PROGRAMI Temmuz-Ağustos Dönemi Değerlendirme Sonuçları İlanı",
+  "link": "https://www.dogaka.gov.tr/duyuru/2026-yili-yesil-donusum-teknik-destek-programi-temmuz-agustos-donemi-degerlendirme-sonuclari-ilani/847",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Bursa Eskişehir Bilecik Kalkınma Ajansı Personel Alım İlanı",
+  "link": "https://www.dogaka.gov.tr/duyuru/bursa-eskisehir-bilecik-kalkinma-ajansi-personel-alim-ilani/846",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "T.C. Kuzey Anadolu Kalkınma Ajansı Personel Alım İlanı",
+  "link": "https://www.dogaka.gov.tr/duyuru/t-c-kuzey-anadolu-kalkinma-ajansi-personel-alim-ilani/845",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "2026 YILI YEŞİL DÖNÜŞÜM TEKNİK DESTEK PROGRAMI Mayıs-Haziran Dönemi Değerlendirme Sonuçları İlanı",
+  "link": "https://www.dogaka.gov.tr/duyuru/2026-yili-yesil-donusum-teknik-destek-programi-mayis-haziran-donemi-degerlendirme-sonuclari-ilani/844",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "2026 Yılı Sanayide Sosyal Kapsayıcı Yeşil Geçiş Destek Programı Sonuçları İlan Edildi",
+  "link": "https://www.dogaka.gov.tr/duyuru/2026-yili-sanayide-sosyal-kapsayici-yesil-gecis-destek-programi-sonuclari-ilan-edildi/843",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Yerel Kalkınma Hamlesi Teşvik Programı 2025 Yılı Sonuçları Açıklandı",
+  "link": "https://www.dogaka.gov.tr/duyuru/yerel-kalkinma-hamlesi-tesvik-programi-2025-yili-sonuclari-aciklandi/842",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Doğu Akdeniz Kalkınma Ajansı Personel Alımı Sözlü Yarışma Sınavı Sonuçları",
+  "link": "https://www.dogaka.gov.tr/duyuru/dogu-akdeniz-kalkinma-ajansi-personel-alimi-sozlu-yarisma-sinavi-sonuclari/841",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "30 Eylül 2026 Yeşil Dönüşüm Teknik Destek Programı Kapsamında Saha Ziyaretleri Gerçekleştirildi",
+  "link": "https://www.dogaka.gov.tr/haber/yesil-donusum-teknik-destek-programi-kapsaminda-saha-ziyaretleri-gerceklestirildi/2390",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "16 Eylül 2026 Kahramanmaraş’ta SEECO Projesi Kapsamında Dijital Dönüşüm Geçim Kaynağı Tesisi Kuruldu",
+  "link": "https://www.dogaka.gov.tr/haber/kahramanmaras-ta-seeco-projesi-kapsaminda-dijital-donusum-gecim-kaynagi-tesisi-kuruldu/2389",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "11 Eylül 2026 Dijital Becerilerle Geleceğe Hazırlanıyorlar",
+  "link": "https://www.dogaka.gov.tr/haber/dijital-becerilerle-gelecege-hazirlaniyorlar/2388",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "10 Eylül 2026 Emekle Yoğrulan Bir Başarı Hikâyesi",
+  "link": "https://www.dogaka.gov.tr/haber/emekle-yogrulan-bir-basari-hikayesi/2387",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "04 Eylül 2026 Osmaniye Milletvekili Seydi Gülsoy ve Beraberindeki Heyetten DOĞAKA’ya Ziyaret",
+  "link": "https://www.dogaka.gov.tr/haber/osmaniye-milletvekili-seydi-gulsoy-ve-beraberindeki-heyetten-dogaka-ya-ziyaret/2386",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "21 Ağustos 2026 Osmaniye Valisi ve DOĞAKA Yönetim Kurulu Başkanı Serdengeçti’den DOĞAKA’ya Ziyaret",
+  "link": "https://www.dogaka.gov.tr/haber/osmaniye-valisi-ve-dogaka-yonetim-kurulu-baskani-serdengecti-den-dogaka-ya-ziyaret/2385",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "10 Ağustos 2026 Sabun Çayı Doğa Turizmi Projesi İçin Saha İncelemesi Gerçekleştirildi",
+  "link": "https://www.dogaka.gov.tr/haber/sabun-cayi-doga-turizmi-projesi-icin-saha-incelemesi-gerceklestirildi/2384",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "04 Ağustos 2026 DOĞAKA ve Hayat Yeniden Eğitim ve Kültür Vakfı İş Birliğiyle Geleneksel El Sanatları Kadınların Üretimiyle Geleceğe Taşınıyor",
+  "link": "https://www.dogaka.gov.tr/haber/dogaka-ve-hayat-yeniden-egitim-ve-kultur-vakfi-is-birligiyle-geleneksel-el-sanatlari-kadinlarin-uretimiyle-gelecege-tasiniyor/2383",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "04 Ağustos 2026 Kahramanmaraş'ta Sanayinin Ölçüm Altyapısı Güçleniyor",
+  "link": "https://www.dogaka.gov.tr/haber/kahramanmaras-ta-sanayinin-olcum-altyapisi-gucleniyor/2382",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "31 Temmuz 2026 Osmaniye Yer Fıstığı Güvenilir Gıda Üretim Tesisi ile Katma Değerli Üretim ve Kadın İstihdamı Destekleniyor",
+  "link": "https://www.dogaka.gov.tr/haber/osmaniye-yer-fistigi-guvenilir-gida-uretim-tesisi-ile-katma-degerli-uretim-ve-kadin-istihdami-destekleniyor/2381",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "30 Temmuz 2026 Kahramanmaraş Mehmet Arıkan Sosyal Girişimcilik Merkezi Geleceğe Umut Oluyor",
+  "link": "https://www.dogaka.gov.tr/haber/kahramanmaras-mehmet-arikan-sosyal-girisimcilik-merkezi-gelecege-umut-oluyor/2380",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "10 Temmuz 2026 Doğu Akdeniz Kalkınma Ajansı Personeline Yönelik Hizmet İçi Proje Döngüsü Yönetimi (PCM) Eğitimi Düzenlendi.",
+  "link": "https://www.dogaka.gov.tr/haber/dogu-akdeniz-kalkinma-ajansi-personeline-yonelik-hizmet-ici-proje-dongusu-yonetimi-pcm-egitimi-duzenlendi/2379",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "29 Haziran 2026 Hatay'ın Anavatanla Buluşmasının 87. Yılı",
+  "link": "https://www.dogaka.gov.tr/haber/hatay-in-anavatanla-bulusmasinin-87-yili/2378",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "25 Haziran 2026 İskenderun’da Kadınların İstihdamına ve Sosyal Uyuma Katkı Sunacak Yatırım Tamamlandı",
+  "link": "https://www.dogaka.gov.tr/haber/iskenderun-da-kadinlarin-istihdamina-ve-sosyal-uyuma-katki-sunacak-yatirim-tamamlandi/2376",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "23 EYLÜL Hayat Yeniden Eğitim ve Kültür Vakfı İhale İlanı",
+  "link": "https://www.dogaka.gov.tr/ihale/hayat-yeniden-egitim-ve-kultur-vakfi-ihale-ilani/850",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "21 AĞUSTOS Kahramanmaraş Marangozlar Odası İhale İlanı",
+  "link": "https://www.dogaka.gov.tr/ihale/kahramanmaras-marangozlar-odasi-ihale-ilani/849",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "15 AĞUSTOS Türkoğlu İlçesi Trabzon Hurması Kurutma Alanı Tesisi Projesi İçin Yapım İşi ve Mal Alımı İhale İlanı",
+  "link": "https://www.dogaka.gov.tr/ihale/turkoglu-ilcesi-trabzon-hurmasi-kurutma-alani-tesisi-projesi-icin-yapim-isi-ve-mal-alimi-ihale-ilani/848",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "15 AĞUSTOS Anadolu Motifleri İzi Projesi İhale İlanı",
+  "link": "https://www.dogaka.gov.tr/ihale/anadolu-motifleri-izi-projesi-ihale-ilani/847",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "30 HAZİRAN Kahramanmaraş Sütçü İmam Üniversitesi Mal Alım İhale İlanı",
+  "link": "https://www.dogaka.gov.tr/ihale/kahramanmaras-sutcu-imam-universitesi-mal-alim-ihale-ilani/846",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "30 MAYIS T.C. DOĞU AKDENİZ KALKINMA AJANSI HATAY AYAKKABI İMALAT ORTAK KULLANIM MERKEZİ MAKİNE ALIMI İHALE İLANI",
+  "link": "https://www.dogaka.gov.tr/ihale/t-c-dogu-akdeniz-kalkinma-ajansi-hatay-ayakkabi-imalat-ortak-kullanim-merkezi-makine-alimi-ihale-ilani/845",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "26 MAYIS Türkoğlu İlçesi Trabzon Hurması Kurutma Alanı Tesisi Projesi İçin Yapım İşi İhale İlanı",
+  "link": "https://www.dogaka.gov.tr/ihale/turkoglu-ilcesi-trabzon-hurmasi-kurutma-alani-tesisi-projesi-icin-yapim-isi-ihale-ilani/844",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "16 MAYIS T.C. Doğu Akdeniz Kalkınma Ajansı 18 Bağımsız Bölüm İçeren Sanayi Sitesi Yapım İşi Yapım İşi İhale İlanı",
+  "link": "https://www.dogaka.gov.tr/ihale/t-c-dogu-akdeniz-kalkinma-ajansi-18-bagimsiz-bolum-iceren-sanayi-sitesi-yapim-isi-yapim-isi-ihale-ilani/843",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "16 NİSAN Elbistan Toplu Konut Ltd. Şti. Halk Ekmek Fabrikası Tadilatı Yapım İşi ihalesi",
+  "link": "https://www.dogaka.gov.tr/ihale/elbistan-toplu-konut-ltd-sti-halk-ekmek-fabrikasi-tadilati-yapim-isi-ihalesi/842",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "15 NİSAN S.S Antakya Dericiler Temin Tevzi Kooperatifi İhale İlanı",
+  "link": "https://www.dogaka.gov.tr/ihale/s-s-antakya-dericiler-temin-tevzi-kooperatifi-ihale-ilani/841",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "02 NİSAN Kahramanmaraş Marangozlar Odası İhale İlanı",
+  "link": "https://www.dogaka.gov.tr/ihale/kahramanmaras-marangozlar-odasi-ihale-ilani/840",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "26 MART T.C. Orta Anadolu Kalkınma Ajansı Şoförlü ve Şoförsüz Araç Kiralama Hizmeti Alımı İhalesi",
+  "link": "https://www.dogaka.gov.tr/ihale/t-c-orta-anadolu-kalkinma-ajansi-soforlu-ve-soforsuz-arac-kiralama-hizmeti-alimi-ihalesi/839",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "18 MART T.C. DOĞU AKDENİZ KALKINMA AJANSI İNSANSIZ HAVA ARACI (DRONE) VE AKSESUARLARI ALIMI MAL ALIMI İHALE İLANI",
+  "link": "https://www.dogaka.gov.tr/ihale/t-c-dogu-akdeniz-kalkinma-ajansi-insansiz-hava-araci-drone-ve-aksesuarlari-alimi-mal-alimi-ihale-ilani/838",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "05 MART Kahramanmaraş Marangozlar ve Mobilyacılar Esnaf ve Sanatkarlar Odas Yapım İşi İçin İhale İlanı",
+  "link": "https://www.dogaka.gov.tr/ihale/kahramanmaras-marangozlar-ve-mobilyacilar-esnaf-ve-sanatkarlar-odas-yapim-isi-icin-ihale-ilani/837",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "01 MART T.C. Doğu Akdeniz Kalkınma Ajansı 18 Bağımsız Bölüm İçeren Sanayi Sitesi Yapım İşi Yapım İşi İhale İlanı",
+  "link": "https://www.dogaka.gov.tr/ihale/t-c-dogu-akdeniz-kalkinma-ajansi-18-bagimsiz-bolum-iceren-sanayi-sitesi-yapim-isi-yapim-isi-ihale-ilani/836",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "18 ŞUBAT T.C. Güney Ege Kalkınma Ajansı İhale İlanı",
+  "link": "https://www.dogaka.gov.tr/ihale/t-c-guney-ege-kalkinma-ajansi-ihale-ilani/835",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "18 ŞUBAT DOĞU AKDENİZ KALKINMA AJANSI ORMAN YANGINLARI ÖZELİNDE HATAY’IN İKLİM DEĞİŞİKLİKLERİNE ADAPTASYONUNUN ARTTIRILMASI PROJESİ İNSANSIZ HAVA ARACI (DRONE) VE AKSESUARLARI ALIMI MAL ALIMI İHALE İLANI",
+  "link": "https://www.dogaka.gov.tr/ihale/dogu-akdeniz-kalkinma-ajansi-orman-yanginlari-ozelinde-hatay-in-iklim-degisikliklerine-adaptasyonunun-arttirilmasi-projesi-insansiz-hava-araci-drone-ve-aksesuarlari-alimi-mal-alimi-ihale-ilani/834",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "14 ŞUBAT HALK EKMEK FABRİKASI MAKİNE EKİPMAN ALIMI İHALE İLANI",
+  "link": "https://www.dogaka.gov.tr/ihale/halk-ekmek-fabrikasi-makine-ekipman-alimi-ihale-ilani/833",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "02 OCAK Kahramanmaraş Altın ve Mücevher San. ve Tic. A.Ş Mal Alım İhalesi",
+  "link": "https://www.dogaka.gov.tr/ihale/kahramanmaras-altin-ve-mucevher-san-ve-tic-a-s-mal-alim-ihalesi/832",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "27 ARALIK S.S Antakya Dericiler Temin Tevzi Kooperatifi İhale İlanı",
+  "link": "https://www.dogaka.gov.tr/ihale/s-s-antakya-dericiler-temin-tevzi-kooperatifi-ihale-ilani/831",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Destek Programları Rehberleri",
+  "link": "https://www.dogaka.gov.tr/#home-doc3",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Sunumlar ve Eğitim Belgeleri",
+  "link": "https://www.dogaka.gov.tr/#home-doc5",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "2020 Yılı Mobilyacılığın Geliştirilmesi Finansman Maliyeti Desteği-24.06.2020",
+  "link": "https://www.dogaka.gov.tr/destekler/2020-yili-mobilyaciligin-gelistirilmesi-finansman-maliyeti-destegi-24-06-2020",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "İhale ve Hizmet Duyuruları",
+  "link": "https://www.dogaka.gov.tr/medya/ihale-ve-hizmet-duyurulari",
+  "kaynak": "DOĞAKA Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Savunma Sanayii İcra Komitesi",
+  "link": "https://www.ssb.gov.tr/savunma-sanayii-icra-komitesi",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Başkanlık Politikası ve Yönetim Sistemleri",
+  "link": "https://www.ssb.gov.tr/baskanlik-politikasi-ve-yonetim-sistemleri",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Savunma Sanayii Ürün Kataloğu",
+  "link": "https://www.ssb.gov.tr/savunma-sanayii-urunler-katalogu",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "SSB Uluslararası İş Birliği İhracat Stratejisi",
+  "link": "https://www.ssb.gov.tr/ssb-uluslararasi-is-birligi-ihracat-stratejisi",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Kurumsal Mali Durum ve Beklentileri",
+  "link": "https://www.ssb.gov.tr/kurumsal-mali-durum-ve-beklentileri",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "ALTAY Seri Üretim Projesi",
+  "link": "https://www.ssb.gov.tr/proje/altay-seri-uretim-projesi",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Zırhlı Amfibi Hücum Aracı (ZAHA)",
+  "link": "https://www.ssb.gov.tr/proje/zirhli-amfibi-hucum-araci-zaha",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Taktik Tekerlekli Zırhlı Araçlar (TTZA)",
+  "link": "https://www.ssb.gov.tr/proje/taktik-tekerlekli-zirhli-araclar-ttza",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "MİLGEM 5. Gemi ile 6-12. Gemilerin Tedariki",
+  "link": "https://www.ssb.gov.tr/proje/milgem-5-gemi-ile-6-12-gemilerin-tedariki",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Yeni Tip Denizaltı Tedariki",
+  "link": "https://www.ssb.gov.tr/proje/yeni-tip-denizalti-tedariki",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Çok Maksatlı Amfibi Hücum Gemisi (LHD)",
+  "link": "https://www.ssb.gov.tr/proje/cok-maksatli-amfibi-hucum-gemisi-lhd",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Yeni Nesil Temel Eğitim Uçağı (HÜRKUŞ)",
+  "link": "https://www.ssb.gov.tr/proje/yeni-nesil-temel-egitim-ucagi-hurkus",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Barış Kartalı Modernizasyonu",
+  "link": "https://www.ssb.gov.tr/proje/baris-kartali-modernizasyonu",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "C-130E/B Aviyonik Modernizasyonu (ERCİYES)",
+  "link": "https://www.ssb.gov.tr/proje/c-130eb-aviyonik-modernizasyonu-erciyes",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Deniz Karakol Uçakları Modernizasyonu",
+  "link": "https://www.ssb.gov.tr/proje/deniz-karakol-ucaklari-modernizasyonu",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Milli Muharip Uçak Geliştirilmesi (KAAN)",
+  "link": "https://www.ssb.gov.tr/proje/mmu-milli-muharip-ucak-gelistirilmesi-kaan",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Tekâmül Jet Eğitim Uçağı (HÜRJET)",
+  "link": "https://www.ssb.gov.tr/proje/tekamul-jet-egitim-ucagi-hurjet",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Taktik ve Taarruz Keşif Helikopteri (ATAK)",
+  "link": "https://www.ssb.gov.tr/proje/taktik-ve-taarruz-kesif-helikopteri-atak",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "OGM Su Atar Helikopter Tedariki",
+  "link": "https://www.ssb.gov.tr/proje/ogm-su-atar-helikopter-tedariki",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "İnsansız Hava Araçları ve Akıllı Sistemler",
+  "link": "https://www.ssb.gov.tr/proje_kategori/insansiz-hava-araclari-ve-akilli-sistemler",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Taktik, Operatif ve Stratejik İHA",
+  "link": "https://www.ssb.gov.tr/proje/taktik-operatif-ve-stratejik-iha",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Hava Savunma ve Füze Sistemleri",
+  "link": "https://www.ssb.gov.tr/proje_kategori/hava-savunma-ve-fuze-sistemleri",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Elektronik Harp ve Radar Sistemleri",
+  "link": "https://www.ssb.gov.tr/proje_kategori/elektronik-harp-ve-radar-sistemleri",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Erken İhbar Radar Sistemleri FAZ-1 (ERALP)",
+  "link": "https://www.ssb.gov.tr/proje/erken-ihbar-radar-sistemleri-faz-1-eralp",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Hava Platformunda Uzaktan Elektronik Destek / Elektronik Taarruz Kabiliyeti (HAVA SOJ)",
+  "link": "https://www.ssb.gov.tr/proje/hava-platformunda-uzaktan-elektronik-destek-elektronik-taarruz-kabiliyeti-hava-soj",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Modern Mayın Tespit Sistemleri",
+  "link": "https://www.ssb.gov.tr/proje/modern-mayin-tespit-sistemleri",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Kara Konuşlu Uzaktan ED/ET Kabiliyeti Kazanımı (KORAL-2) Seri Üretimi",
+  "link": "https://www.ssb.gov.tr/proje/kara-konuslu-uzaktan-edet-kabiliyeti-kazanimi-koral-2-seri-uretimi",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Yönlendirilmiş Kızılötesi Karşı Tedbir Sistemi Geliştirme (YILDIRIM)",
+  "link": "https://www.ssb.gov.tr/proje/yonlendirilmis-kizilotesi-karsi-tedbir-sistemi-gelistirme-yildirim",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Muhabere Elektronik ve Bilgi Sistemleri",
+  "link": "https://www.ssb.gov.tr/proje_kategori/muharebe-elektronik-ve-bilgi-sistemleri",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Jandarma Entegre Muhabere ve Bilgi Sistemi (JEMUS)",
+  "link": "https://www.ssb.gov.tr/proje/jandarma-entegre-muhabere-ve-bilgi-sistemi-jemus",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "GÖKTÜRK-3 Sentetik Açıklıklı Radar (Sar) Uydu Sistemi Geliştirme Projesi / Yer Gözlem Uydusu Geliştirilmesi (İMECE)",
+  "link": "https://www.ssb.gov.tr/proje/gokturk-3-sentetik-aciklikli-radar-sar-uydu-sistemi-gelistirme-projesi-yer-gozlem-uydusu-gelistirilmesi-imece",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Milli İhbar ve Komuta Kontrol Yazılımı Geliştirme",
+  "link": "https://www.ssb.gov.tr/proje/milli-ihbar-ve-komuta-kontrol-yazilimi-gelistirme",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Yeni Nesil EO/IR Hedefleme Sistemi (ASELFLIR 600) Geliştirme / Aselpod Geliştirme ve Entegrasyon",
+  "link": "https://www.ssb.gov.tr/proje/yeni-nesil-eoir-hedefleme-sistemi-aselflir-600-gelistirme-aselpod-gelistirme-ve-entegrasyon",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Motor ve Güç Aktarma Sistemleri",
+  "link": "https://www.ssb.gov.tr/proje_kategori/motor-ve-guc-aktarma-sistemleri",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Milli Muharip Uçak Güç Sistemleri",
+  "link": "https://www.ssb.gov.tr/proje/milli-muharip-ucak-guc-sistemleri",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Dizel Motor ve Çapraz Tahrikli Transmisyon Ailesi",
+  "link": "https://www.ssb.gov.tr/proje/dizel-motor-ve-capraz-tahrikli-transmisyon-ailesi",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Lazer Silah Sistemleri Tedariki",
+  "link": "https://www.ssb.gov.tr/proje/lazer-silah-sistemleri-tedariki",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "155 MM Lazer Güdümlü Topçu Mühimmatı Geliştirilmesi ve Tedariki",
+  "link": "https://www.ssb.gov.tr/proje/155-mm-lazer-gudumlu-topcu-muhimmati-gelistirilmesi-ve-tedariki",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Siber Güvenlik ve Bilişim Sistemleri",
+  "link": "https://www.ssb.gov.tr/proje_kategori/siber-guvenlik-ve-bilisim-sistemleri",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "TSK Bulut Bilişim Sistemi",
+  "link": "https://www.ssb.gov.tr/proje/tsk-bulut-bilisim-sistemi",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "TSK Siber Savunma Merkezi (SİSAMER)",
+  "link": "https://www.ssb.gov.tr/proje/tsk-siber-savunma-merkezi-sisamer",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Doğal Gaz Boru Hatları Scada Sistemi",
+  "link": "https://www.ssb.gov.tr/proje/dogal-gaz-boru-hatlari-scada-sistemi",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "İçişleri Bakanlığı Hava Araçları Yönetimi Sistemi (FİLONET)",
+  "link": "https://www.ssb.gov.tr/proje/icisleri-bakanligi-hava-araclari-yonetimi-sistemi-filonet",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Yapay Zekâ Destekli Önleyici Kolluk Sistemi (KAHİN)",
+  "link": "https://www.ssb.gov.tr/proje/yapay-zeka-destekli-onleyici-kolluk-sistemi-kahin",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "MANTİS (Multispektral Analiz) Projesi",
+  "link": "https://www.ssb.gov.tr/proje/mantis-multispektral-analiz-projesi",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "İHA Tabanlı Askeri 4.5G Haberleşme Konsept Gösterimi",
+  "link": "https://www.ssb.gov.tr/proje/iha-tabanli-askeri-45g-haberlesme-konsept-gosterimi",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Pasif Dış İskelet Geliştirilmesi",
+  "link": "https://www.ssb.gov.tr/proje/pasif-dis-iskelet-gelistirilmesi",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "İnsansız Suüstü Araç Sürüsü Gösterimi",
+  "link": "https://www.ssb.gov.tr/proje/insansiz-suustu-arac-surusu-gosterimi",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Lazer Güdümlü Mini Füze Geliştirilmesi",
+  "link": "https://www.ssb.gov.tr/proje/lazer-gudumlu-mini-fuze-gelistirilmesi",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Transmisyon Gövde Yerlileştirme Yatırımı",
+  "link": "https://www.ssb.gov.tr/proje/transmisyon-govde-yerlilestirme-yatirimi",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Elektroform Altyapısı Kurulumu",
+  "link": "https://www.ssb.gov.tr/proje/elektroform-altyapisi-kurulumu",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Cevher Zenginleştirme Pilot Tesis Kurulumu",
+  "link": "https://www.ssb.gov.tr/proje/cevher-zenginlestirme-pilot-tesis-kurulumu",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Arge ve Teknoloji Yönetimi",
+  "link": "https://www.ssb.gov.tr/proje_kategori/arge-ve-teknoloji-yonetimi",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Yönlendirilmiş Enerji Silah Sistemleri için Yakıt Hücresi Teknolojisi Geliştirilmesi (Çağın)",
+  "link": "https://www.ssb.gov.tr/proje/yonlendirilmis-enerji-silah-sistemleri-icin-yakit-hucresi-teknolojisi-gelistirilmesi-cagin",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Afet ve Acil Durumlar İçin Yapay Zekâ Destekli Durumsal Farkındalık Sistemi (HIZIR-NET)",
+  "link": "https://www.ssb.gov.tr/proje/afet-ve-acil-durumlar-icin-yapay-zeka-destekli-durumsal-farkindalik-sistemi-hizir-net",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Müşterek Sürü Yeteneği Kazanılması (Toraman)",
+  "link": "https://www.ssb.gov.tr/proje/musterek-suru-yetenegi-kazanilmasi-toraman",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Düşük Frekans Aktif Sonar Sistemi Geliştirilmesi (DÜFAS)",
+  "link": "https://www.ssb.gov.tr/proje/dusuk-frekans-aktif-sonar-sistemi-gelistirilmesi-dufas",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Kimyasal ve Biyolojik Savaş Ajanlarına Karşı Yeni Nesil Dekontaminasyon Teknolojisi Geliştirme (DEKON)",
+  "link": "https://www.ssb.gov.tr/proje/kimyasal-ve-biyolojik-savas-ajanlarina-karsi-yeni-nesil-dekontaminasyon-teknolojisi-gelistirme-dekon",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Savunma Gelişim-Savunma Kariyer",
+  "link": "https://www.ssb.gov.tr/proje/savunma-gelisim-savunma-kariyer",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Mesleki ve Teknik Eğitimde ELMAS Programı",
+  "link": "https://www.ssb.gov.tr/proje/mesleki-ve-teknik-egitimde-elmas-programi",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Savunma Sanayii Odaklı Yükseköğrenim Programları",
+  "link": "https://www.ssb.gov.tr/proje/savunma-sanayii-odakli-yuksekogrenim-programlari",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Eğitim ve Gelişim Yönetimi",
+  "link": "https://www.ssb.gov.tr/egitim-ve-gelisim-yonetimi",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Ar-Ge ve Teknoloji Yönetimi Portalı",
+  "link": "https://arge.ssb.gov.tr/",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Ömür Devri Yönetimi Platformu (TSSÖDYP)",
+  "link": "https://tssodyp.ssb.gov.tr/",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Yetenek Envanteri ( YETEN)",
+  "link": "https://yeten.ssb.gov.tr/",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "19.10.2026 Türk Savunma Sanayiinde Bu Hafta Neler Oldu?",
+  "link": "https://www.ssb.gov.tr/haber/turk-savunma-sanayiinde-bu-hafta-neler-oldu-2026-10-19",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "12.10.2026 Türk Savunma Sanayiinde Bu Hafta Neler Oldu?",
+  "link": "https://www.ssb.gov.tr/haber/turk-savunma-sanayiinde-bu-hafta-neler-oldu-2026-10-12",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "05.10.2026 Türk Savunma Sanayiinde Bu Hafta Neler Oldu?",
+  "link": "https://www.ssb.gov.tr/haber/turk-savunma-sanayiinde-bu-hafta-neler-oldu-2026-10-05",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "28.09.2026 Türk Savunma Sanayiinde Bu Hafta Neler Oldu?",
+  "link": "https://www.ssb.gov.tr/haber/turk-savunma-sanayiinde-bu-hafta-neler-oldu-2026-09-28",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "21.09.2026 Türk Savunma Sanayiinde Bu Hafta Neler Oldu?",
+  "link": "https://www.ssb.gov.tr/haber/turk-savunma-sanayiinde-bu-hafta-neler-oldu-2026-09-21",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "14.09.2026 Türk Savunma Sanayiinde Bu Hafta Neler Oldu?",
+  "link": "https://www.ssb.gov.tr/haber/turk-savunma-sanayiinde-bu-hafta-neler-oldu-2026-09-14",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "YENİ 16.10.2026 Sözleşmeli Bilişim Personeli Alımı İlanı Kapsamında Sözlü Sınava Katılmaya Hak Kazanan Adaylara Duyuru",
+  "link": "https://www.ssb.gov.tr/duyuru/sozlesmeli-bilisim-personeli-alimi-ilani-kapsaminda-sozlu-sinava-katilmaya-hak-kazanan-adaylara-duyuru-h5lDPw",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "15.10.2026 İnsansız Hava Araçlarına Entegre Yangın Söndürme Faydalı Yükü Bilgi İstek Dokümanı Teslim Alma Tarihi Uzatımı Duyurusu",
+  "link": "https://www.ssb.gov.tr/duyuru/insansiz-hava-araclarina-entegre-yangin-sondurme-faydali-yuku-bilgi-istek-dokumani-teslim-alma-tarihi-uzatimi-duyurusu-xGAbWn",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "09.10.2026 T.C. Cumhurbaşkanlığı Savunma Sanayii Başkanlığı Savunma Sanayii Uzman Yardımcılığı Giriş Sınavı",
+  "link": "https://www.ssb.gov.tr/duyuru/tc-cumhurbaskanligi-savunma-sanayii-baskanligi-savunma-sanayii-uzman-yardimciligi-giris-sinavi-xVQq8d",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "30.09.2026 4/B Sözleşmeli Personel İçin Yapılan Giriş Sınavı Sonucunda Yerleştirilmeye Hak Kazanan Adaylara Duyuru",
+  "link": "https://www.ssb.gov.tr/duyuru/4b-sozlesmeli-personel-icin-yapilan-giris-sinavi-sonucunda-yerlestirilmeye-hak-kazanan-adaylara-duyuru-lrVkYL",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "25.09.2026 Sözleşmeli Bilişim Personeli Alımı İlanı Kapsamında Yazılı Sınava Katılmaya Hak Kazanan Adaylara Duyuru-2",
+  "link": "https://www.ssb.gov.tr/duyuru/sozlesmeli-bilisim-personeli-alimi-ilani-kapsaminda-yazili-sinava-katilmaya-hak-kazanan-adaylara-duyuru-2-FZITFI",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "17.09.2026 Sözleşmeli Bilişim Personeli Alımı İlanı Kapsamında Yazılı Sınava Katılmaya Hak Kazanan Adaylara Duyuru",
+  "link": "https://www.ssb.gov.tr/duyuru/sozlesmeli-bilisim-personeli-alimi-ilani-kapsaminda-yazili-sinava-katilmaya-hak-kazanan-adaylara-duyuru-xA8tuy",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "Geçmişten Geleceğe Türk Savunma Sanayii",
+  "link": "https://ssb.gov.tr/savunmasanayii360",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "savunmasanayiibaskanligi@hs01.kep.tr",
+  "link": "mailto:savunmasanayiibaskanligi@hs01.kep.tr",
+  "kaynak": "SSB Duyurular",
+  "ilgili": true
+ },
+ {
+  "baslik": "Bu internet sitesinde sizlere daha iyi hizmet sunulabilmesi için çerezler kullanılmaktadır. Çerez politikamız hakkında bilgi edinmek için tıklayınız.",
+  "link": "https://www.ssb.gov.tr/cerez-politikasi",
+  "kaynak": "SSB Duyurular",
+  "ilgili": false
+ },
+ {
+  "baslik": "TTO TEKNOLOJİ TRANSFER OFİSİ",
+  "link": "https://cukurovateknokent.com/tto-teknoloji-transfer-ofisi/",
+  "kategori": "Adana Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "ADANA GİRİŞİMCİLİK MERKEZİ",
+  "link": "https://cukurovateknokent.com/?page_id=2077",
+  "kategori": "Adana Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "BAŞVURU BİLGİLENDİRME FORMU",
+  "link": "https://cukurovateknokent.com/wp-content/uploads/2023/06/BASVURU-FORMU-BILGILENDIRME-VE-DOLDURMA-REHBERI-1.docx",
+  "kategori": "Adana Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "GÖREVLENDİRME BAŞVURU FORMU",
+  "link": "https://cukurovateknokent.com/wp-content/uploads/2025/03/EK-1-OGRETIM-UYESI-ELEMANI-GOREVLENDIRME-BASVURU-FORMU-CTGB-U1-1.docx",
+  "kategori": "Adana Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "GÖREVLENDİRİLME ŞİRKET TALEP FORMU",
+  "link": "https://cukurovateknokent.com/wp-content/uploads/2025/03/EK-2-OGRETIM-UYESI-ELEMANI-GOREVLENDIRILME-SIRKET-TALEP-FORMU-CTGB-U2-1.docx",
+  "kategori": "Adana Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "ARGE VE DANIŞMANLIK HİZMET SÖZLEŞMESİ",
+  "link": "https://cukurovateknokent.com/wp-content/uploads/2025/03/EK-3-DIGER-AR-GE-VE-DANISMANLIK-HIZMET-SOZLESMESI-SABLONU-CTGB-U3-ATU.docx",
+  "kategori": "Adana Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "ÇUKUROVA TEKNOKENT FİRMALARI",
+  "link": "https://cukurovateknokent.com/firmalar/",
+  "kategori": "Adana Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "ÇUKUROVA GİRİŞİMCİLİK EKOSİSTEMİ",
+  "link": "https://cukurovateknokent.com/duyurular/#",
+  "kategori": "Adana Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "ELEKTRONİK BELGE YÜKLEME SİSTEMİ",
+  "link": "http://skybs.net:7777/BelgeDogrulama",
+  "kategori": "Adana Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Üniversite-Sanayi İş Birliği Platformu",
+  "link": "https://isbirligi.cukurovateknokent.com",
+  "kategori": "Adana Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "X page opens in new window",
+  "link": "https://twitter.com/cteknokent",
+  "kategori": "Adana Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Linkedin page opens in new window",
+  "link": "https://www.linkedin.com/in/%C3%A7ukurova-teknokent-637821257/",
+  "kategori": "Adana Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Instagram page opens in new window",
+  "link": "https://www.instagram.com/cukurovateknokent/",
+  "kategori": "Adana Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "BIGG4FUTURE 2026/2 Proje Sunumu Eğitimi",
+  "link": "https://cukurovateknokent.com/bigg4future-2026-2-proje-sunumu-egitimi/",
+  "kategori": "Adana Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "BIGG4FUTURE 2026/2 Hızlandırma Programı Eğitimi 7",
+  "link": "https://cukurovateknokent.com/bigg4future-2026-2-hizlandirma-programi-egitimi-7/",
+  "kategori": "Adana Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "TÜBİTAK BiGG 2026/1 Çağrı Sonuçları",
+  "link": "https://cukurovateknokent.com/tubitak-bigg-2026-1-cagri-sonuclari/",
+  "kategori": "Adana Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "EUPeace Çukurova Teknokent Ziyareti",
+  "link": "https://cukurovateknokent.com/eupeace-cukurova-teknokent-ziyareti/",
+  "kategori": "Adana Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "ÇUKUROVA GİRİŞİMCİLİK EKOSİSTEMİ",
+  "link": "https://cukurovateknokent.com/haberler/#",
+  "kategori": "Adana Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "Kalite ve Çevre Politikası",
+  "link": "https://www.technoscope.com.tr/kys-kalite-ve-cevre-politikasi/",
+  "kategori": "Mersin Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Tanıtım Filmi, Hemen İzle",
+  "link": "https://www.youtube.com/watch?v=69u6CSxq3cQ",
+  "kategori": "Mersin Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Mersin Teknopark Olağan Genel Kurul ve Yönetim Kurulu Toplantısı gerçekleştirildi.",
+  "link": "https://www.technoscope.com.tr/teknopark-genel-kurul-toplantisi-2026/",
+  "kategori": "Mersin Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Teknoloji Geliştirme Ekosistem Buluşması",
+  "link": "https://www.technoscope.com.tr/ekosistem-bulusmasi/",
+  "kategori": "Mersin Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Mersin Teknopark Firmaları SAHA 2026’da Yerini Aldı.",
+  "link": "https://www.technoscope.com.tr/teknopark-saha/",
+  "kategori": "Mersin Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Genç ASKON, Mersin Teknopark Genel Müdürü Sayın Mehmet İlbaş’ı ziyaret etti.",
+  "link": "https://www.technoscope.com.tr/askon-teknopark-ziyareti/",
+  "kategori": "Mersin Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Mersin Ticaret ve Sanayi Odası koordinasyonunda yürütülen Melek Yatırımcı & Girişimci İş Fikirlerini Ticarileştirme Odak Çalışma Kurulu",
+  "link": "https://www.technoscope.com.tr/mtso-melek-yatirimci-kurulu/",
+  "kategori": "Mersin Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "AgroFoodStart Tarım ve Gıda Girişimcilik İnkübatörü programının tanıtım ve bilgilendirme toplantısı",
+  "link": "https://www.technoscope.com.tr/agrofood-tanitim-toplantisi/",
+  "kategori": "Mersin Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "Mersin Teknopark ile İl Milli Eğitim Müdürlüğü arasında imzalanan protokol kapsamında",
+  "link": "https://www.technoscope.com.tr/teknopark-milli-egitim-mudurlugu-protokol/",
+  "kategori": "Mersin Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Mersin Teknopark’tan Agropark’a ziyaret",
+  "link": "https://www.technoscope.com.tr/mersin-teknoparktan-agroparka-ziyaret/",
+  "kategori": "Mersin Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "OSB Teknokent TTO (KALITTO)",
+  "link": "https://osbteknokent.com.tr/tto/",
+  "kategori": "Kahramanmaraş Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "Ar-Ge ve Yazılım Ofisleri",
+  "link": "https://osbteknokent.com.tr/ar-ge-ve-yazilim-ofisleri/",
+  "kategori": "Kahramanmaraş Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "37°09’32.6″N 37°17’39.1″E",
+  "link": "https://www.google.com/maps?q=37.15904235839844,37.294185638427734&z=17&hl=tr",
+  "kategori": "Kahramanmaraş Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Kurumsal keyboard_arrow_down",
+  "link": "https://www.gaziantepteknopark.com.tr/#",
+  "kategori": "Gaziantep Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Teknoloji Transfer Ofisi (TARGET)",
+  "link": "https://ttotarget.com/",
+  "kategori": "Gaziantep Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "31.10.2025 UFUK AVRUPA BİLGİLENDİRME KONFERANSI Duyuru",
+  "link": "https://www.gaziantepteknopark.com.tr/duyuru/30974588",
+  "kategori": "Gaziantep Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "10.03.2025 Türkiye Tech Visa Programı Duyuru",
+  "link": "https://www.gaziantepteknopark.com.tr/duyuru/42230314",
+  "kategori": "Gaziantep Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "05.04.2024 Gaziantep Teknopark Kuluçka Merkezi Duyuru",
+  "link": "https://www.gaziantepteknopark.com.tr/duyuru/32293940",
+  "kategori": "Gaziantep Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "12.02.2024 TÜBİTAK 1812 - 2024-1.ÇAĞRI Duyuru",
+  "link": "https://www.gaziantepteknopark.com.tr/duyuru/44180760",
+  "kategori": "Gaziantep Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "TÜM HABERLER VE TARİH TÜNELİ",
+  "link": "https://www.gaziantepteknopark.com.tr/medya",
+  "kategori": "Gaziantep Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Başvuru yapmak için tıklayınız",
+  "link": "https://portal.gaziantepteknopark.com.tr",
+  "kategori": "Gaziantep Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "info@gaziantepteknopark.com.tr",
+  "link": "mailto:info@gaziantepteknopark.com.tr",
+  "kategori": "Gaziantep Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Hatay Mustafa Kemal Üniversitesi",
+  "link": "http://mku.edu.tr",
+  "kategori": "Hatay Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "T.C. Sanayi ve Teknoloji Bakanlığı",
+  "link": "https://www.sanayi.gov.tr/?lang=tr",
+  "kategori": "Hatay Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "Türk Patent ve Marka Kurumu",
+  "link": "http://www.turkpatent.gov.tr/TURKPATENT/",
+  "kategori": "Hatay Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Türkiye Teknoloji Geliştirme Vakfı",
+  "link": "https://www.ttgv.org.tr/tr/",
+  "kategori": "Hatay Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Hatay Mustafa Kemal Üniversitesi Bilgi İşlem Daire Başkanlığı",
+  "link": "https://bidb.mku.edu.tr/",
+  "kategori": "Hatay Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Teknolojik Ürün Yatırım Destek Programı Hakkında Yönetmelik",
+  "link": "https://www.nigdeteknopark.com/teknolojik-urun-yatirim-destek-programi-hakkinda-yonetmelik/",
+  "kategori": "Niğde Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "6170 Sayılı TGB Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "link": "https://www.nigdeteknopark.com/6170-sayili-tgb-kanununda-degisiklik-yapilmasina-dair-kanun/",
+  "kategori": "Niğde Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "4691 Sayılı TEKNOLOJİ GELİŞTİRME BÖLGELERİ Kanunu",
+  "link": "https://www.nigdeteknopark.com/4691-sayili-teknoloji-gelistirme-bolgeleri-kanunu/",
+  "kategori": "Niğde Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Teknoloji Geliştirme Bölgeleri Uygulama Yönetmeliği",
+  "link": "https://www.nigdeteknopark.com/teknoloji-gelistirme-bolgeleri-uygulama-yonetmeligi/",
+  "kategori": "Niğde Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Bireysel Katılım Sermayesi Hakkında Yönetmelik",
+  "link": "https://www.nigdeteknopark.com/bireysel-katilim-sermayesi-hakkinda-yonetmelik/",
+  "kategori": "Niğde Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ TEKNOLOJİ GELİŞTİRME BÖLGESİ İŞLETME YÖNERGESİ",
+  "link": "https://www.nigdeteknopark.com/nigde-omer-halisdemir-universitesi-teknoloji-gelistirme-bolgesi-isletme-yonergesi/",
+  "kategori": "Niğde Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "TGBD Kastamonu Bölgesel Toplantısı’na Katılım Sağladık",
+  "link": "https://www.nigdeteknopark.com/2026/10/17/tgbd-kastamonu-bolgesel-toplantisina-katilim-sagladik/",
+  "kategori": "Niğde Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "Türkiye Siber Vatan Programı 2027 Dönemi Başlıyor",
+  "link": "https://www.nigdeteknopark.com/2026/10/16/turkiye-siber-vatan-programi-2027-donemi-basliyor/",
+  "kategori": "Niğde Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "TEKNOFEST 2026’da Çifte Madalya Gururu",
+  "link": "https://www.nigdeteknopark.com/2026/10/12/teknofest-2026da-cifte-madalya-gururu/",
+  "kategori": "Niğde Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "TGBD Gaziantep Bölgesel Buluşması’na Katıldık",
+  "link": "https://www.nigdeteknopark.com/2026/10/12/tgbd-gaziantep-bolgesel-bulusmasina-katildik/",
+  "kategori": "Niğde Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "TÜBİTAK BİGG 1812 2027-01 başvuruları başladı! 🚀",
+  "link": "https://www.nigdeteknopark.com/2026/09/28/tubitak-bigg-1812-2027-01-basvurulari-basladi-%f0%9f%9a%80/",
+  "kategori": "Niğde Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "Niğde Ömer Halisdemir Üniversitesi Teknoloji Gelişme Bölgesi Teknopark B Blok Ar-Ge binasının ince işlerinin (tamamlama, tesisat, iç Mimari ve Çevre Düzenlemesi) Yapım İşi",
+  "link": "https://www.nigdeteknopark.com/2026/09/28/nigde-omer-halisdemir-universitesi-teknoloji-gelisme-bolgesi-teknopark-b-blok-ar-ge-binasinin-ince-islerinin-tamamlama-tesisat-ic-mimari-ve-cevre-duzenlemesi-yapim-isi-3/",
+  "kategori": "Niğde Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "Niğde Ömer Halisdemir Üniversitesi Teknoloji Gelişme Bölgesi Teknopark B Blok Ar-Ge binasının ince işlerinin (tamamlama, tesisat, iç Mimari ve Çevre Düzenlemesi) Yapım İşi",
+  "link": "https://www.nigdeteknopark.com/2026/09/17/nigde-omer-halisdemir-universitesi-teknoloji-gelisme-bolgesi-teknopark-b-blok-ar-ge-binasinin-ince-islerinin-tamamlama-tesisat-ic-mimari-ve-cevre-duzenlemesi-yapim-isi-2/",
+  "kategori": "Niğde Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "Niğde Ömer Halisdemir Üniversitesi Teknoloji Gelişme Bölgesi Teknopark B Blok Ar-Ge binasının ince işlerinin (tamamlama, tesisat, iç Mimari ve Çevre Düzenlemesi) Yapım İşi",
+  "link": "https://www.nigdeteknopark.com/2026/09/04/nigde-omer-halisdemir-universitesi-teknoloji-gelisme-bolgesi-teknopark-b-blok-ar-ge-binasinin-ince-islerinin-tamamlama-tesisat-ic-mimari-ve-cevre-duzenlemesi-yapim-isi/",
+  "kategori": "Niğde Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "Niğde Teknopark’ta Kıymetli Ziyaret",
+  "link": "https://www.nigdeteknopark.com/2026/08/21/nigde-teknoparkta-kiymetli-ziyaret/",
+  "kategori": "Niğde Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "TÜBİTAK 1613 TTO Profesyoneli ve TÜBİTAK 1702 Patent Tabanlı Teknoloji Transferi Destek Çağrıları Bilgilendirme Toplantısı",
+  "link": "https://www.nigdeteknopark.com/2026/07/14/tubitak-1613-tto-profesyoneli-ve-tubitak-1702-patent-tabanli-teknoloji-transferi-destek-cagrilari-bilgilendirme-toplantisi/",
+  "kategori": "Niğde Teknokent",
+  "ilgili": true
+ },
+ {
+  "baslik": "Niğde Ömer Halisdemir Üniversitesi",
+  "link": "https://www.ohu.edu.tr",
+  "kategori": "Niğde Teknokent",
+  "ilgili": false
+ },
+ {
+  "baslik": "2573–Endonezya Ulusal Araştırma ve Yenilik Ajansı (BRIN) ile İkili İşbirliği Programı Başvuru Sonuçları Açıklandı",
+  "link": "https://tubitak.gov.tr/tr/duyuru/2573-endonezya-ulusal-arastirma-ve-yenilik-ajansi-brin-ile-ikili-isbirligi-programi-basvuru-sonuclari-aciklandi",
+  "tur": "Duyuru",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "1007 Programı Balistik Kıyafet Geliştirilmesi Projesi Çağrısı Açıldı",
+  "link": "https://tubitak.gov.tr/tr/duyuru/1007-programi-balistik-kiyafet-gelistirilmesi-projesi-cagrisi-acildi",
+  "tur": "Duyuru",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "1007 Programı Balistik Amaçlı Aromatik Poliamid Geliştirilmesi Projesi Çağrısı Açıldı",
+  "link": "https://tubitak.gov.tr/tr/duyuru/1007-programi-balistik-amacli-aromatik-poliamid-gelistirilmesi-projesi-cagrisi-acildi",
+  "tur": "Duyuru",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "2531 – TÜBİTAK & DAAD (Almanya) İkili İş Birliği Seyahat Destek Programı 7. Çağrısı Açıldı",
+  "link": "https://tubitak.gov.tr/tr/duyuru/2531-tubitak-daad-almanya-ikili-birligi-seyahat-destek-programi-7-cagrisi-acildi",
+  "tur": "Duyuru",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "BiGG Yatırım 2026 Yılı 1. Çağrısı’nın Sonuçları Belli Oldu",
+  "link": "https://tubitak.gov.tr/tr/duyuru/bigg-yatirim-2026-yili-1-cagrisinin-sonuclari-belli-oldu",
+  "tur": "Duyuru",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "BiodivERsA+ 2026 Yılı “Yeni Ekosistemler: Biyoçeşitlilik, Sosyo-Ekolojik Sonuçlar ve Gelecekteki Seyirler – BiodivFuture” Başlıklı Çağrısı…",
+  "link": "https://tubitak.gov.tr/tr/duyuru/biodiversa-2026-yili-yeni-ekosistemler-biyocesitlilik-sosyo-ekolojik-sonuclar-ve-gelecekteki-seyirler-biodivfuture-baslikli-cagrisi-acildi",
+  "tur": "Duyuru",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "2531 Alman Akademik Değişim Servisi (DAAD) ile İkili İş Birliği Programı Başvuru Sonuçları Açıklandı",
+  "link": "https://tubitak.gov.tr/tr/duyuru/2531-alman-akademik-degisim-servisi-daad-ile-ikili-birligi-programi-basvuru-sonuclari-aciklandi-2",
+  "tur": "Duyuru",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "2209-A Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı ve 2209-B Üniversite Öğrencileri Sanayiye Yönelik Araştırma Projeleri…",
+  "link": "https://tubitak.gov.tr/tr/duyuru/2209-universite-ogrencileri-arastirma-projeleri-destekleme-programi-ve-2209-b-universite-ogrencileri-sanayiye-yonelik-arastirma-projeleri-destegi-programi-2026-yili-cagrilari-acildi",
+  "tur": "Duyuru",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "2224-Bilimsel Etkinliklere Katılımı Destekleme Programları 2026 Yılı 3. Dönem Çağrıları Açıldı",
+  "link": "https://tubitak.gov.tr/tr/duyuru/2224-bilimsel-etkinliklere-katilimi-destekleme-programlari-2026-yili-3-donem-cagrilari-acildi",
+  "tur": "Duyuru",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "2247–A Ulusal Lider Araştırmacılar Programı ve 2247–D Ulusal Genç Liderler Programı 2026 Yılı Çağrıları Açıldı",
+  "link": "https://tubitak.gov.tr/tr/duyuru/2247-ulusal-lider-arastirmacilar-programi-ve-2247-d-ulusal-genc-liderler-programi-2026-yili-cagrilari-acildi",
+  "tur": "Duyuru",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "Eureka Globalstars Japonya 2026 Çağrısı Açıldı",
+  "link": "https://tubitak.gov.tr/tr/duyuru/eureka-globalstars-japonya-2026-cagrisi-acildi",
+  "tur": "Duyuru",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "2572 TÜBİTAK–Ürdün Ulusal Araştırma Geliştirme Merkezi (NCRD) İkili İşbirliği Çağrısı Başvuruya Açıldı",
+  "link": "https://tubitak.gov.tr/tr/duyuru/2572-tubitak-urdun-ulusal-arastirma-gelistirme-merkezi-ncrd-ikili-isbirligi-cagrisi-basvuruya-acildi",
+  "tur": "Duyuru",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "2211-Yurt İçi Doktora Burs Programları 2026 Yılı 2. Dönem Çağrıları Başvuruya Açıldı",
+  "link": "https://tubitak.gov.tr/tr/duyuru/2211-yurt-ici-doktora-burs-programlari-2026-yili-2-donem-cagrilari-basvuruya-acildi",
+  "tur": "Duyuru",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "2210-Yurt İçi Yüksek Lisans Burs Programları 2026 Yılı 2. Dönem Çağrıları Açıldı",
+  "link": "https://tubitak.gov.tr/tr/duyuru/2210-yurt-ici-yuksek-lisans-burs-programlari-2026-yili-2-donem-cagrilari-acildi",
+  "tur": "Duyuru",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "2205-Lisans Burs Programı 2026 Yılı 2. Dönem Çağrısı Açıldı",
+  "link": "https://tubitak.gov.tr/tr/duyuru/2205-lisans-burs-programi-2026-yili-2-donem-cagrisi-acildi",
+  "tur": "Duyuru",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "2223-Yurt İçi Bilimsel Etkinlikleri Destekleme Programları 2026 Yılı 3. Dönem Çağrıları Açıldı",
+  "link": "https://tubitak.gov.tr/tr/duyuru/2223-yurt-ici-bilimsel-etkinlikleri-destekleme-programlari-2026-yili-3-donem-cagrilari-acildi",
+  "tur": "Duyuru",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "TÜBİTAK Bilim Söyleşileri 2026 Yılı Başvuruları Başladı",
+  "link": "https://tubitak.gov.tr/tr/duyuru/tubitak-bilim-soylesileri-2026-yili-basvurulari-basladi",
+  "tur": "Duyuru",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "1007 Programı Alternatif Haberleşme Sistemi Geliştirilmesi Projesi Çağrısı Açıldı",
+  "link": "https://tubitak.gov.tr/tr/duyuru/1007-programi-alternatif-haberlesme-sistemi-gelistirilmesi-projesi-cagrisi-acildi",
+  "tur": "Duyuru",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "İlk Kez Düzenlenen Türkiye Bilim İletişimi Zirvesi Yoğun İlgiyle Tamamlandı",
+  "link": "https://tubitak.gov.tr/tr/haber/ilk-kez-duzenlenen-turkiye-bilim-iletisimi-zirvesi-yogun-ilgiyle-tamamlandi",
+  "tur": "Haber",
+  "kategori": "TÜBİTAK",
+  "ilgili": false
+ },
+ {
+  "baslik": "TÜBİTAK, Ateş Serbest-2026’da En Yeni Teknolojilerini Sergiledi",
+  "link": "https://tubitak.gov.tr/tr/haber/tubitak-ates-serbest-2026da-en-yeni-teknolojilerini-sergiledi",
+  "tur": "Haber",
+  "kategori": "TÜBİTAK",
+  "ilgili": false
+ },
+ {
+  "baslik": "TÜBİTAK’IN Enstitü Ve Ar-Ge Merkezleriyle Katıldığı Dünyanın En Prestijli Uzay Kongresi IAC 2026 Sona Erdi",
+  "link": "https://tubitak.gov.tr/tr/haber/tubitakin-enstitu-ve-ar-ge-merkezleriyle-katildigi-dunyanin-en-prestijli-uzay-kongresi-iac-2026-sona-erdi",
+  "tur": "Haber",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "Öğrencilerimiz 33. Balkan Bilgisayar Olimpiyatı’ndan Madalyalarla Döndü",
+  "link": "https://tubitak.gov.tr/tr/haber/ogrencilerimiz-33-balkan-bilgisayar-olimpiyatindan-madalyalarla-dondu",
+  "tur": "Haber",
+  "kategori": "TÜBİTAK",
+  "ilgili": false
+ },
+ {
+  "baslik": "Millî Takımımız 19. Genç Balkan Bilgisayar Olimpiyatı’ndan 4 Madalyayla Döndü",
+  "link": "https://tubitak.gov.tr/tr/haber/milli-takimimiz-19-genc-balkan-bilgisayar-olimpiyatindan-4-madalyayla-dondu",
+  "tur": "Haber",
+  "kategori": "TÜBİTAK",
+  "ilgili": false
+ },
+ {
+  "baslik": "Milli Takımımız 19. Uluslararası Astronomi ve Astrofizik Olimpiyatı’nda Ülkemizi Başarıyla Temsil Ederek Madalyalar Kazandı",
+  "link": "https://tubitak.gov.tr/tr/haber/milli-takimimiz-19-uluslararasi-astronomi-ve-astrofizik-olimpiyatinda-ulkemizi-basariyla-temsil-ederek-madalyalar-kazandi",
+  "tur": "Haber",
+  "kategori": "TÜBİTAK",
+  "ilgili": false
+ },
+ {
+  "baslik": "Salda Bilim Merkezi ve Burdur Mehmet Akif Ersoy Üniversitesi Millî Teknoloji Atölyesi Açılış Töreni Dünyanın Dört Bir Yanından Gelen…",
+  "link": "https://tubitak.gov.tr/tr/haber/salda-bilim-merkezi-ve-burdur-mehmet-akif-ersoy-universitesi-milli-teknoloji-atolyesi-acilis-toreni-dunyanin-dort-bir-yanindan-gelen-astronotlarin-katilimiyla-gerceklesti",
+  "tur": "Haber",
+  "kategori": "TÜBİTAK",
+  "ilgili": false
+ },
+ {
+  "baslik": "TÜBİTAK, TEKNOFEST Güneydoğu’da Yüz Bini Aşkın Bilim ve Teknoloji Meraklısını Ağırladı",
+  "link": "https://tubitak.gov.tr/tr/haber/tubitak-teknofest-guneydoguda-yuz-bini-askin-bilim-ve-teknoloji-meraklisini-agirladi",
+  "tur": "Haber",
+  "kategori": "TÜBİTAK",
+  "ilgili": false
+ },
+ {
+  "baslik": "Şanlıurfa Bilim Merkezi’nin Açılışı Cumhurbaşkanı Erdoğan’ın Teşrifleriyle Gerçekleşti",
+  "link": "https://tubitak.gov.tr/tr/haber/sanliurfa-bilim-merkezinin-acilisi-cumhurbaskani-erdoganin-tesrifleriyle-gerceklesti",
+  "tur": "Haber",
+  "kategori": "TÜBİTAK",
+  "ilgili": false
+ },
+ {
+  "baslik": "Kırklareli Üniversitesi Milli Teknoloji Atölyesi’nin Açılışı Gerçekleştirildi",
+  "link": "https://tubitak.gov.tr/tr/haber/kirklareli-universitesi-milli-teknoloji-atolyesinin-acilisi-gerceklestirildi",
+  "tur": "Haber",
+  "kategori": "TÜBİTAK",
+  "ilgili": false
+ },
+ {
+  "baslik": "Bir Yeni Milli Teknoloji Atölyesi Daha Faaliyete Girdi",
+  "link": "https://tubitak.gov.tr/tr/haber/bir-yeni-milli-teknoloji-atolyesi-daha-faaliyete-girdi",
+  "tur": "Haber",
+  "kategori": "TÜBİTAK",
+  "ilgili": false
+ },
+ {
+  "baslik": "Türkiye’nin İlk Ay Uzay Aracının Entegrasyon Faaliyetleri Tamamlandı",
+  "link": "https://tubitak.gov.tr/tr/haber/turkiyenin-ilk-ay-uzay-aracinin-entegrasyon-faaliyetleri-tamamlandi",
+  "tur": "Haber",
+  "kategori": "TÜBİTAK",
+  "ilgili": false
+ },
+ {
+  "baslik": "TÜBİTAK Yarışmalarında Bilim ve Teknoloji Rüzgârı Batıdan Güneydoğuya Esiyor",
+  "link": "https://tubitak.gov.tr/tr/haber/tubitak-yarismalarinda-bilim-ve-teknoloji-ruzgari-batidan-guneydoguya-esiyor",
+  "tur": "Haber",
+  "kategori": "TÜBİTAK",
+  "ilgili": true
+ },
+ {
+  "baslik": "TÜBİTAK Konya Bilim Festivali’nde Bilim ve Teknoloji Tutkunlarıyla Bir Araya Geldi",
+  "link": "https://tubitak.gov.tr/tr/haber/tubitak-konya-bilim-festivalinde-bilim-ve-teknoloji-tutkunlariyla-bir-araya-geldi",
+  "tur": "Haber",
+  "kategori": "TÜBİTAK",
+  "ilgili": false
+ },
+ {
+  "baslik": "TÜBİTAK, TEKNOFEST Mavi Vatan’da Denizcilik ve Su Altı Teknolojilerini Tanıttı",
+  "link": "https://tubitak.gov.tr/tr/haber/tubitak-teknofest-mavi-vatanda-denizcilik-ve-su-alti-teknolojilerini-tanitti",
+  "tur": "Haber",
+  "kategori": "TÜBİTAK",
+  "ilgili": false
+ },
+ {
+  "baslik": "10. Avrupa Genç Bilgisayar Olimpiyatı’nda Madalya Sevinci",
+  "link": "https://tubitak.gov.tr/tr/haber/10-avrupa-genc-bilgisayar-olimpiyatinda-madalya-sevinci",
+  "tur": "Haber",
+  "kategori": "TÜBİTAK",
+  "ilgili": false
+ },
+ {
+  "baslik": "3. Uluslararası Yapay Zekâ Olimpiyatı’nda Gururlandıran Başarı",
+  "link": "https://tubitak.gov.tr/tr/haber/3-uluslararasi-yapay-zeka-olimpiyatinda-gururlandiran-basari",
+  "tur": "Haber",
+  "kategori": "TÜBİTAK",
+  "ilgili": false
+ },
+ {
+  "baslik": "Öğrencilerimizden 38. Uluslararası Bilgisayar Olimpiyatı’nda Büyük Başarı",
+  "link": "https://tubitak.gov.tr/tr/haber/ogrencilerimizden-38-uluslararasi-bilgisayar-olimpiyatinda-buyuk-basari",
+  "tur": "Haber",
+  "kategori": "TÜBİTAK",
+  "ilgili": false
+ },
+ {
+  "baslik": "Başkan Yardımcıları",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6561/baskan-yardimcilari",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Rapor ve İstatistikler",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/38/rapor-ve-istatistikler",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "KVKK Aydınlatma Metni",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6340/kvkk-aydinlatma-metni",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Kurumsal Kimlik",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6451/kurumsal-kimlik",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Uluslararası İlişkiler",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/5116/uluslararasi-iliskiler",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Uluslararası İlişkiler",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6228/uluslararasi-iliskiler",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "İkili İşbirliği Faaliyetleri",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6495/ikili-isbirligi-faaliyetleri",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Çok Taraflı İşbirliği Faaliyetleri",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6141/cok-tarafli-isbirligi-faaliyetleri",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "AB Ülkeleri ile İkili İlişkiler",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6482/ab-ulkeleri-ile-ikili-iliskiler",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Avrupa Küçük İşletmeler Yasası",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6122/avrupa-kucuk-isletmeler-yasasi",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Avrupa KOBİ Haftası",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6121/avrupa-kobi-haftasi",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": true
+ },
+ {
+  "baslik": "Proje Duyuruları",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6522/proje-duyurulari",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": true
+ },
+ {
+  "baslik": "Kayıt İşlemleri",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6235/kayit-islemleri",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Nereden Başlamalıyım?",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/180/nereden-baslamaliyim",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Yürürlükten Kaldırılan Destekler",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6530/yururlukten-kaldirilan-destekler",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": true
+ },
+ {
+  "baslik": "İleri Girişimci Destek Programı",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6369/ileri-girisimci-destek-programi",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": true
+ },
+ {
+  "baslik": "Programa İlişkin Dokümanlar",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/1082/programa-iliskin-dokumanlar",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Proje Teklif Çağrıları/ Duyurular",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/1084/proje-teklif-cagrilari-duyurular",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": true
+ },
+ {
+  "baslik": "Finansmana Erişim Bileşeni",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6211/finansmana-erisim-bileseni",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Kredi Garanti Desteği",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6212/kredi-garanti-destegi",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Büyüme Amaçlı Öz Kaynak Desteği",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6213/buyume-amacli-oz-kaynak-destegi",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Pazarlara Erişim Bileşeni",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6203/pazarlara-erisim-bileseni",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Avrupa İşletmeler Ağı",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6204/avrupa-isletmeler-agi",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Fikri Mülkiyet Hakları KOBİ Yardım Masaları",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6205/fikri-mulkiyet-haklari-kobi-yardim-masalari",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": true
+ },
+ {
+  "baslik": "Sizin Avrupanız İş Portalı",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6206/sizin-avrupaniz-is-portali",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "AB - Japonya Sınai İşbirliği Merkezi",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6207/ab-japonya-sinai-isbirligi-merkezi",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Gelişmiş Tek Temas Noktaları",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6208/gelismis-tek-temas-noktalari",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "KOBİ'lerin Kamu İhalelerine Erişimlerinin Geliştirilmesi",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6209/kobilerin-kamu-ihalelerine-erisimlerinin-gelistirilmesi",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": true
+ },
+ {
+  "baslik": "KOBİ'lerin Uluslararasılaşmasına Destek",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6210/kobilerin-uluslararasilasmasina-destek",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": true
+ },
+ {
+  "baslik": "Çerçeve Koşulların İyileştirilmesi Bileşeni",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6214/cerceve-kosullarin-iyilestirilmesi-bileseni",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "İşletmeler İçin İdari ve Düzenleyici Yüklerin Azaltılması",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6215/isletmeler-icin-idari-ve-duzenleyici-yuklerin-azaltilmasi",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Küme Programları",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6217/kume-programlari",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Turizm Sektörüne Yönelik Uygulamalar",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6218/turizm-sektorune-yonelik-uygulamalar",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Daha İyi Politikalar İçin Teknik Araçlar",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6219/daha-iyi-politikalar-icin-teknik-araclar",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": false
+ },
+ {
+  "baslik": "Girişimcilik ve Girişimcilik Kültür Bileşeni",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6220/girisimcilik-ve-girisimcilik-kultur-bileseni",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": true
+ },
+ {
+  "baslik": "Girişimcilik Eylem Planı 2020",
+  "link": "https://www.kosgeb.gov.tr/site/tr/genel/liste/6221/girisimcilik-eylem-plani-2020",
+  "tur": "Duyuru",
+  "kategori": "KOSGEB",
+  "ilgili": true
+ },
+ {
+  "baslik": "Ar-Ge, Tasarım Merkezleri ve TGB",
+  "link": "https://www.sanayi.gov.tr/arge-tasarim-merkezleri-ve-tgb",
+  "tur": "Duyuru",
+  "kategori": "Sanayi ve Teknoloji Bakanlığı",
+  "ilgili": true
+ },
+ {
+  "baslik": "Piyasa Gözetimi ve Denetimleri",
+  "link": "https://www.sanayi.gov.tr/piyasa-gozetimi-ve-denetimleri/idari-yaptirim-kararlari",
+  "tur": "Duyuru",
+  "kategori": "Sanayi ve Teknoloji Bakanlığı",
+  "ilgili": false
+ },
+ {
+  "baslik": "Bölgesel Kalkınma Faaliyetleri",
+  "link": "https://www.sanayi.gov.tr/bolgesel-kalkinma-faaliyetleri/strateji-belgeleri",
+  "tur": "Duyuru",
+  "kategori": "Sanayi ve Teknoloji Bakanlığı",
+  "ilgili": false
+ },
+ {
+  "baslik": "Plan, Program, Raporlar ve Yayınlar",
+  "link": "https://www.sanayi.gov.tr/plan-program-raporlar-ve-yayinlar/faaliyet-raporlari",
+  "tur": "Duyuru",
+  "kategori": "Sanayi ve Teknoloji Bakanlığı",
+  "ilgili": false
+ },
+ {
+  "baslik": "Uluslararası Anlaşmalar",
+  "link": "https://www.sanayi.gov.tr/anlasmalar/yktk",
+  "tur": "Duyuru",
+  "kategori": "Sanayi ve Teknoloji Bakanlığı",
+  "ilgili": false
+ },
+ {
+  "baslik": "T.C. Sanayi ve Teknoloji Bakanlığı",
+  "link": "https://www.sanayi.gov.tr/yapayzekaeylemplani",
+  "tur": "Duyuru",
+  "kategori": "Sanayi ve Teknoloji Bakanlığı",
+  "ilgili": true
+ },
+ {
+  "baslik": "202604MAYIS ENHANCER PRO kapsamında, girişimcilik kapasitesinin geliştirilmesine yönelik Kahramanmaraş Bilgilendirme Toplantısı 04.05.2026…",
+  "link": "https://www.dogaka.gov.tr/duyuru/enhancer-pro-kapsaminda-girisimcilik-kapasitesinin-gelistirilmesine-yonelik-kahramanmaras-bilgilendirme-toplantisi/840",
+  "tur": "Duyuru",
+  "kategori": "Kalkınma Ajansları",
+  "ilgili": true
+ },
+ {
+  "baslik": "Sanayi Katılımı / Offset",
+  "link": "https://www.ssb.gov.tr/sanayi-katilimi-offset",
+  "tur": "Duyuru",
+  "kategori": "Savunma Sanayii",
+  "ilgili": true
+ },
+ {
+  "baslik": "Performans Programları",
+  "link": "https://www.ssb.gov.tr/performans-programlari",
+  "tur": "Duyuru",
+  "kategori": "Savunma Sanayii",
+  "ilgili": false
+ },
+ {
+  "baslik": "İnsansız Kara Araçları",
+  "link": "https://www.ssb.gov.tr/proje/insansiz-kara-araclari",
+  "tur": "Duyuru",
+  "kategori": "Savunma Sanayii",
+  "ilgili": false
+ },
+ {
+  "baslik": "Yeni Nesil Araç (YNA)",
+  "link": "https://www.ssb.gov.tr/proje/yeni-nesil-arac-yna",
+  "tur": "Duyuru",
+  "kategori": "Savunma Sanayii",
+  "ilgili": false
+ },
+ {
+  "baslik": "İnsansız Deniz Araçları",
+  "link": "https://www.ssb.gov.tr/proje/insansiz-deniz-araclari",
+  "tur": "Duyuru",
+  "kategori": "Savunma Sanayii",
+  "ilgili": false
+ },
+ {
+  "baslik": "A400M Ulaştırma Uçağı",
+  "link": "https://www.ssb.gov.tr/proje/a400m-ulastirma-ucagi",
+  "tur": "Duyuru",
+  "kategori": "Savunma Sanayii",
+  "ilgili": false
+ },
+ {
+  "baslik": "İnsansız Savaş Uçağı",
+  "link": "https://www.ssb.gov.tr/proje/insansiz-savas-ucagi",
+  "tur": "Duyuru",
+  "kategori": "Savunma Sanayii",
+  "ilgili": false
+ }
+]
