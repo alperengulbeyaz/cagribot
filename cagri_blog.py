@@ -514,17 +514,20 @@ def _html_dene(ham, url, limit, secici, dis_link):
 
 
 def _kalip_topla(ham, url, limit, kalip, dis_link=False):
-    """Adresi `kalip` (regex) ile eşleşen bağlantıları alır. Başlık ve tarih bağlantının/kartın içinden çıkarılır."""
+    """Adresi `kalip` (regex) ile eşleşen bağlantıları alır. Başlık ve tarih bağlantının/kartın içinden çıkarılır.
+    Aynı haber için birden çok bağlantı varsa (resim bağlantısı + başlık bağlantısı) en uzun başlık tutulur."""
     soup = BeautifulSoup(ham, "html.parser")
     for t in soup(["script", "style", "noscript", "nav", "footer"]):
         t.decompose()
-    sonuc, gorulen = [], {url.rstrip("/")}
+    sonuc, yer = [], {}
+    kendi = url.rstrip("/")
     for a in soup.select("a[href]"):
         href = (a.get("href") or "").strip()
         if not href or href.startswith(("#", "javascript:", "mailto:", "tel:")):
             continue
         link = urljoin(url, href)
-        if not re.search(kalip, link) or link.rstrip("/") in gorulen:
+        anahtar = link.rstrip("/")
+        if not re.search(kalip, link) or anahtar == kendi:
             continue
         if not dis_link and host(link) != host(url):
             continue
@@ -533,34 +536,17 @@ def _kalip_topla(ham, url, limit, kalip, dis_link=False):
             baslik = _kart_basligi(a) or baslik
         if len(baslik) < 8 or kucult(baslik).startswith(GEREKSIZ_METIN):
             continue
-        gorulen.add(link.rstrip("/"))
+        if anahtar in yer:                       # aynı haberin ikinci bağlantısı: daha uzun başlığı al
+            o = sonuc[yer[anahtar]]
+            if len(baslik) > len(o["baslik"]):
+                o["baslik"] = baslik
+            if not o.get("tarih"):
+                o["tarih"] = _kart_tarihi(a)
+            continue
+        if len(sonuc) >= limit:
+            continue                              # sınıra ulaşıldı; yalnızca eşleşenleri tamamla
+        yer[anahtar] = len(sonuc)
         sonuc.append({"baslik": baslik, "link": link, "tarih": _kart_tarihi(a)})
-        if len(sonuc) >= limit:
-            break
-    return sonuc
-
-
-def _satir_topla(ham, url, limit, satir):
-    """Bağlantısı olmayan (tıklama ile açılan) listeler için: `satir` seçicisiyle her satırı alır.
-    Başlık = satırdaki en uzun metin, tarih = satırdaki tarih. Bağlantı = liste sayfası (+ başlığa özel #işaret)."""
-    soup = BeautifulSoup(ham, "html.parser")
-    sonuc = []
-    for li in soup.select(satir):
-        metinler = [" ".join(x.get_text(" ", strip=True).split()) for x in li.find_all(["h1", "h2", "h3", "h4", "h5", "h6", "p", "span", "a"])]
-        tarih = tarih_norm(li.get_text(" ", strip=True))
-        adaylar = [_temiz_baslik(t) for t in metinler if t and not TARIH_RE.fullmatch(t.strip())]
-        adaylar = [t for t in adaylar if len(t) >= 8]
-        if not adaylar:
-            continue
-        baslik = max(adaylar, key=len)
-        if kucult(baslik).startswith(("henüz duyuru", "daha önceki")):
-            continue
-        a = li.find("a", href=True)
-        link = urljoin(url, a["href"]) if a and not a["href"].startswith(("#", "javascript:")) else \
-            url.split("#")[0] + "#" + re.sub(r"\W+", "-", kucult(baslik))[:60]
-        sonuc.append({"baslik": baslik, "link": link, "tarih": tarih})
-        if len(sonuc) >= limit:
-            break
     return sonuc
 
 
