@@ -95,6 +95,12 @@
   "kategori": "Kahramanmaraş Teknokent",
   "items": [
    {
+    "baslik": "Dijital Dönüşüm Yol Haritası ve Teşvik Fırsatları Webinarı",
+    "link": "https://teknokentmaras.com/tr/haberler/dijital-donusum-yol-haritasi-ve-tesvik-firsatlari-webinari",
+    "tarih": "22.10.2026",
+    "tur": "Haber"
+   },
+   {
     "baslik": "Kahramanmaraş Teknokent TEKNOFEST Güneydoğu’ya Katıldı",
     "link": "https://teknokentmaras.com/tr/haberler/kahramanmaras-teknokent-teknofest-guneydoguya-katildi",
     "tarih": "06.10.2026",
@@ -104,12 +110,6 @@
     "baslik": "TGBD Gaziantep Bölgesel Buluşması Gerçekleştirildi",
     "link": "https://teknokentmaras.com/tr/haberler/tgbd-gaziantep-bolgesel-bulusmasi-gerceklestirildi",
     "tarih": "01.10.2026",
-    "tur": "Haber"
-   },
-   {
-    "baslik": "Kahramanmaraş Teknokent Yönetim Kurulu Üyelerinden Milli Teknoloji Atölyesine Ziyaret",
-    "link": "https://teknokentmaras.com/tr/haberler/kahramanmaras-teknokent-yonetim-kurulu-uyelerinden-milli-teknoloji-atolyesine-ziyaret",
-    "tarih": "28.09.2026",
     "tur": "Haber"
    }
   ]
@@ -374,6 +374,12 @@
   "kategori": "Savunma Sanayii",
   "items": [
    {
+    "baslik": "Savunma ve Havacılık Sektöründe Alt Yüklenici ve Tedarik Yönetimi Çalıştayı Sunumları",
+    "link": "https://www.ssb.gov.tr/duyuru/savunma-ve-havacilik-sektorunde-alt-yuklenici-ve-tedarik-yonetimi-calistayi-sunumlari-Lngucg",
+    "tarih": "21.10.2026",
+    "tur": "Duyuru"
+   },
+   {
     "baslik": "Sözleşmeli Bilişim Personeli Alımı İlanı Kapsamında Sözlü Sınava Katılmaya Hak Kazanan Adaylara Duyuru",
     "link": "https://www.ssb.gov.tr/duyuru/sozlesmeli-bilisim-personeli-alimi-ilani-kapsaminda-sozlu-sinava-katilmaya-hak-kazanan-adaylara-duyuru-h5lDPw",
     "tarih": "16.10.2026",
@@ -395,12 +401,6 @@
     "baslik": "4/B Sözleşmeli Personel İçin Yapılan Giriş Sınavı Sonucunda Yerleştirilmeye Hak Kazanan Adaylara Duyuru",
     "link": "https://www.ssb.gov.tr/duyuru/4b-sozlesmeli-personel-icin-yapilan-giris-sinavi-sonucunda-yerlestirilmeye-hak-kazanan-adaylara-duyuru-lrVkYL",
     "tarih": "30.09.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "Sözleşmeli Bilişim Personeli Alımı İlanı Kapsamında Yazılı Sınava Katılmaya Hak Kazanan Adaylara Duyuru-2",
-    "link": "https://www.ssb.gov.tr/duyuru/sozlesmeli-bilisim-personeli-alimi-ilani-kapsaminda-yazili-sinava-katilmaya-hak-kazanan-adaylara-duyuru-2-FZITFI",
-    "tarih": "25.09.2026",
     "tur": "Duyuru"
    }
   ]
