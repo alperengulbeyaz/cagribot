@@ -141,6 +141,12 @@
   "kategori": "Niğde Teknokent",
   "items": [
    {
+    "baslik": "Kastamonu Ar-Ge ve İnovasyon Proje Pazarı Ödül Töreni’ne Katıldık",
+    "link": "https://www.nigdeteknopark.com/2026/10/22/kastamonu-ar-ge-ve-inovasyon-proje-pazari-odul-torenine-katildik/",
+    "tarih": "22.10.2026",
+    "tur": "Haber"
+   },
+   {
     "baslik": "TGBD Kastamonu Bölgesel Toplantısı’na Katılım Sağladık",
     "link": "https://www.nigdeteknopark.com/2026/10/17/tgbd-kastamonu-bolgesel-toplantisina-katilim-sagladik/",
     "tarih": "17.10.2026",
@@ -150,12 +156,6 @@
     "baslik": "Türkiye Siber Vatan Programı 2027 Dönemi Başlıyor",
     "link": "https://www.nigdeteknopark.com/2026/10/16/turkiye-siber-vatan-programi-2027-donemi-basliyor/",
     "tarih": "16.10.2026",
-    "tur": "Haber"
-   },
-   {
-    "baslik": "TEKNOFEST 2026’da Çifte Madalya Gururu",
-    "link": "https://www.nigdeteknopark.com/2026/10/12/teknofest-2026da-cifte-madalya-gururu/",
-    "tarih": "12.10.2026",
     "tur": "Haber"
    }
   ]
@@ -240,12 +240,6 @@
     "tur": "Duyuru"
    },
    {
-    "baslik": "İdari Hizmet Sözleşmeli Destek Elemanı Alımı Sonuçları Hakkında Duyuru",
-    "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9490/idari-hizmet-sozlesmeli-destek-elemani-alimi-sonuclari-hakkinda-duyuru",
-    "tarih": "23.09.2026",
-    "tur": "Duyuru"
-   },
-   {
     "baslik": "\"TURKCHEM AZERBAIJAN 2027 SERGİSİ\" DUYURUSU",
     "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9469/turkchem-azerbaijan-2027-sergisi-duyurusu",
     "tarih": "27.08.2026",
@@ -261,6 +255,12 @@
     "baslik": "Helal Expo ve 12. Dünya Helal Zirvesi",
     "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9448/helal-expo-ve-12-dunya-helal-zirvesi",
     "tarih": "05.08.2026",
+    "tur": "Duyuru"
+   },
+   {
+    "baslik": "BM Turizm Çevrim İçi Akademi Sürdürülebilirlik Kursları",
+    "link": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9423/bm-turizm-cevrim-ici-akademi-surdurulebilirlik-kurslari",
+    "tarih": "30.06.2026",
     "tur": "Duyuru"
    }
   ]
@@ -339,6 +339,12 @@
   "kategori": "Kalkınma Ajansları",
   "items": [
    {
+    "baslik": "MKÜ Meslek Yüksekokulu Öğrencilerine Yönelik Destek Mekanizmaları Bilgilendirme Toplantısı Gerçekleştirildi | ...",
+    "link": "https://www.dogaka.gov.tr/haber/mku-meslek-yuksekokulu-ogrencilerine-yonelik-destek-mekanizmalari-bilgilendirme-toplantisi-gerceklestirildi/2391",
+    "tarih": "22.10.2026",
+    "tur": "Haber"
+   },
+   {
     "baslik": "Yeşil Dönüşüm Teknik Destek Programı Kapsamında Saha Ziyaretleri Gerçekleştirildi | ...",
     "link": "https://www.dogaka.gov.tr/haber/yesil-donusum-teknik-destek-programi-kapsaminda-saha-ziyaretleri-gerceklestirildi/2390",
     "tarih": "30.09.2026",
@@ -360,12 +366,6 @@
     "baslik": "Emekle Yoğrulan Bir Başarı Hikâyesi | ...",
     "link": "https://www.dogaka.gov.tr/haber/emekle-yogrulan-bir-basari-hikayesi/2387",
     "tarih": "10.09.2026",
-    "tur": "Haber"
-   },
-   {
-    "baslik": "Osmaniye Milletvekili Seydi Gülsoy ve Beraberindeki Heyetten DOĞAKA’ya Ziyaret | ...",
-    "link": "https://www.dogaka.gov.tr/haber/osmaniye-milletvekili-seydi-gulsoy-ve-beraberindeki-heyetten-dogaka-ya-ziyaret/2386",
-    "tarih": "04.09.2026",
     "tur": "Haber"
    }
   ]
@@ -444,6 +444,18 @@
   "kategori": "Sanayi ve Teknoloji Bakanlığı",
   "items": [
    {
+    "baslik": "BAKAN KACIR’A FAHRİ DOKTORA",
+    "link": "https://www.sanayi.gov.tr/medya/haber/bakan-kacira-fahri-doktora",
+    "tarih": "22.10.2026",
+    "tur": "Haber"
+   },
+   {
+    "baslik": "OSB SAYISI 374’E YÜKSELDİ",
+    "link": "https://www.sanayi.gov.tr/medya/haber/osb-sayisi-374e-yukseldi",
+    "tarih": "22.10.2026",
+    "tur": "Haber"
+   },
+   {
     "baslik": "KADEM İNOVASYONDA KADIN BİLGİ MERKEZİ AÇILDI",
     "link": "https://www.sanayi.gov.tr/medya/haber/kadem-inovasyonda-kadin-bilgi-merkezi-acildi",
     "tarih": "20.10.2026",
@@ -459,18 +471,6 @@
     "baslik": "İHKİB İNOVASYON VE TASARIM MERKEZİ HİZMETE AÇILDI",
     "link": "https://www.sanayi.gov.tr/medya/haber/ihkib-inovasyon-ve-tasarim-merkezi-hizmete-acildi",
     "tarih": "17.10.2026",
-    "tur": "Haber"
-   },
-   {
-    "baslik": "“ENERJİ DÖNÜŞÜMÜNÜN GÜVENCESİ: STANDARTLAR” PROGRAMI",
-    "link": "https://www.sanayi.gov.tr/medya/haber/enerji-donusumunun-guvencesi-standartlar-programi",
-    "tarih": "14.10.2026",
-    "tur": "Haber"
-   },
-   {
-    "baslik": "REKABETÇİ SEKTÖRLER PROGRAMI KAPANIŞ KONFERANSI",
-    "link": "https://www.sanayi.gov.tr/medya/haber/rekabetci-sektorler-programi-kapanis-konferansi1",
-    "tarih": "14.10.2026",
     "tur": "Haber"
    }
   ]
