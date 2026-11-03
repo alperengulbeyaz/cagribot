@@ -26,6 +26,12 @@
   "kategori": "Adana Teknokent",
   "items": [
    {
+    "baslik": "GDG Adana Toplantısı 2",
+    "link": "https://cukurovateknokent.com/gdg-adana-toplantisi-2/",
+    "tarih": "30.10.2026",
+    "tur": "Haber"
+   },
+   {
     "baslik": "PROJE GELİŞTİRME ATÖLYESİ",
     "link": "https://cukurovateknokent.com/proje-gelistirme-atolyesi/",
     "tarih": "28.10.2026",
@@ -35,12 +41,6 @@
     "baslik": "GDG ADANA INFO SESSION",
     "link": "https://cukurovateknokent.com/gdg-adana-info-session/",
     "tarih": "26.10.2026",
-    "tur": "Haber"
-   },
-   {
-    "baslik": "YAPAY ZEKA ATÖLYESİ",
-    "link": "https://cukurovateknokent.com/yapay-zeka-atolyesi/",
-    "tarih": "22.10.2026",
     "tur": "Haber"
    }
   ]
@@ -164,6 +164,12 @@
   "kategori": "TÜBİTAK",
   "items": [
    {
+    "baslik": "2247-C Stajyer Araştırmacı Burs Programı (STAR) 2026 Yılı 2. Dönem STAR Lisans ve STAR Öğretmen Çağrıları Açıldı",
+    "link": "https://tubitak.gov.tr/tr/duyuru/2247-c-stajyer-arastirmaci-burs-programi-star-2026-yili-2-donem-star-lisans-ve-star-ogretmen-cagrilari-acildi",
+    "tarih": "02.11.2026",
+    "tur": "Duyuru"
+   },
+   {
     "baslik": "2508 TÜBİTAK – Slovenya Araştırma ve Yenilik Ajansı (ARIS) İkili İş Birliği Programı 2026 Yılı Çağrısı Açıldı",
     "link": "https://tubitak.gov.tr/tr/duyuru/2508-tubitak-slovenya-arastirma-ve-yenilik-ajansi-aris-ikili-birligi-programi-2026-yili-cagrisi-acildi",
     "tarih": "27.10.2026",
@@ -185,12 +191,6 @@
     "baslik": "2573–Endonezya Ulusal Araştırma ve Yenilik Ajansı (BRIN) ile İkili İşbirliği Programı Başvuru Sonuçları Açıklandı",
     "link": "https://tubitak.gov.tr/tr/duyuru/2573-endonezya-ulusal-arastirma-ve-yenilik-ajansi-brin-ile-ikili-isbirligi-programi-basvuru-sonuclari-aciklandi",
     "tarih": "20.10.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "1007 Programı Balistik Kıyafet Geliştirilmesi Projesi Çağrısı Açıldı",
-    "link": "https://tubitak.gov.tr/tr/duyuru/1007-programi-balistik-kiyafet-gelistirilmesi-projesi-cagrisi-acildi",
-    "tarih": "16.10.2026",
     "tur": "Duyuru"
    }
   ]
@@ -410,6 +410,12 @@
   "items": [
    {
     "baslik": "Türk Savunma Sanayiinde Bu Hafta Neler Oldu?",
+    "link": "https://www.ssb.gov.tr/haber/turk-savunma-sanayiinde-bu-hafta-neler-oldu-2026-11-02",
+    "tarih": "02.11.2026",
+    "tur": "Haber"
+   },
+   {
+    "baslik": "Türk Savunma Sanayiinde Bu Hafta Neler Oldu?",
     "link": "https://www.ssb.gov.tr/haber/turk-savunma-sanayiinde-bu-hafta-neler-oldu-2026-10-26",
     "tarih": "26.10.2026",
     "tur": "Haber"
@@ -430,12 +436,6 @@
     "baslik": "Türk Savunma Sanayiinde Bu Hafta Neler Oldu?",
     "link": "https://www.ssb.gov.tr/haber/turk-savunma-sanayiinde-bu-hafta-neler-oldu-2026-10-05",
     "tarih": "05.10.2026",
-    "tur": "Haber"
-   },
-   {
-    "baslik": "Türk Savunma Sanayiinde Bu Hafta Neler Oldu?",
-    "link": "https://www.ssb.gov.tr/haber/turk-savunma-sanayiinde-bu-hafta-neler-oldu-2026-09-28",
-    "tarih": "28.09.2026",
     "tur": "Haber"
    }
   ]
