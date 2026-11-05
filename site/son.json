@@ -164,6 +164,12 @@
   "kategori": "TÜBİTAK",
   "items": [
    {
+    "baslik": "2244–Sanayi Doktora Programı 2026 Yılı Çağrısı Açıldı",
+    "link": "https://tubitak.gov.tr/tr/duyuru/2244-sanayi-doktora-programi-2026-yili-cagrisi-acildi-0",
+    "tarih": "04.11.2026",
+    "tur": "Duyuru"
+   },
+   {
     "baslik": "2549–Polonya Ulusal Araştırma ve Geliştirme Merkezi (NCBR) ile İkili İşbirliği Programı Başvuru Sonuçları Açıklandı",
     "link": "https://tubitak.gov.tr/tr/duyuru/2549-polonya-ulusal-arastirma-ve-gelistirme-merkezi-ncbr-ile-ikili-isbirligi-programi-basvuru-sonuclari-aciklandi",
     "tarih": "03.11.2026",
@@ -185,12 +191,6 @@
     "baslik": "Bütünleşik Algılama ve Haberleşme Kış Okulu 2026 Yılı Başvuruları Başladı",
     "link": "https://tubitak.gov.tr/tr/duyuru/butunlesik-algilama-ve-haberlesme-kis-okulu-2026-yili-basvurulari-basladi",
     "tarih": "27.10.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "Eureka Network Türkiye-İspanya 2026 Yılı Çağrısı Açıldı",
-    "link": "https://tubitak.gov.tr/tr/duyuru/eureka-network-turkiye-ispanya-2026-yili-cagrisi-acildi",
-    "tarih": "26.10.2026",
     "tur": "Duyuru"
    }
   ]
@@ -374,6 +374,12 @@
   "kategori": "Savunma Sanayii",
   "items": [
    {
+    "baslik": "Sabiha Gökçen Uluslararası Havalimanı Üçüncü Terminal Binası ve Mütemmimleri Projesinin Yap-İşlet-Devret Modeli Çerçevesinde…",
+    "link": "https://www.ssb.gov.tr/duyuru/sabiha-gokcen-uluslararasi-havalimani-ucuncu-terminal-binasi-ve-mutemmimleri-projesinin-yap-islet-devret-modeli-cercevesinde-yaptirilmasina-iliskin-ihale-HeHjnt",
+    "tarih": "04.11.2026",
+    "tur": "Duyuru"
+   },
+   {
     "baslik": "Savunma ve Havacılık Sektöründe Alt Yüklenici ve Tedarik Yönetimi Çalıştayı Sunumları",
     "link": "https://www.ssb.gov.tr/duyuru/savunma-ve-havacilik-sektorunde-alt-yuklenici-ve-tedarik-yonetimi-calistayi-sunumlari-Lngucg",
     "tarih": "21.10.2026",
@@ -395,12 +401,6 @@
     "baslik": "T.C. Cumhurbaşkanlığı Savunma Sanayii Başkanlığı Savunma Sanayii Uzman Yardımcılığı Giriş Sınavı",
     "link": "https://www.ssb.gov.tr/duyuru/tc-cumhurbaskanligi-savunma-sanayii-baskanligi-savunma-sanayii-uzman-yardimciligi-giris-sinavi-xVQq8d",
     "tarih": "09.10.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "4/B Sözleşmeli Personel İçin Yapılan Giriş Sınavı Sonucunda Yerleştirilmeye Hak Kazanan Adaylara Duyuru",
-    "link": "https://www.ssb.gov.tr/duyuru/4b-sozlesmeli-personel-icin-yapilan-giris-sinavi-sonucunda-yerlestirilmeye-hak-kazanan-adaylara-duyuru-lrVkYL",
-    "tarih": "30.09.2026",
     "tur": "Duyuru"
    }
   ]
@@ -479,33 +479,33 @@
   "kategori": "Sanayi ve Teknoloji Bakanlığı",
   "items": [
    {
-    "baslik": "Bursa İlanen Tebligat",
-    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#bursa-ilanen-tebligat",
-    "tarih": "02.11.2026",
+    "baslik": "Isparta Sanayi Sicil Belgesi İptal Edilen Firmalar (Ekim 2026)",
+    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#ısparta-sanayi-sicil-belgesi-iptal-edilen-firmalar-ekim-2026",
+    "tarih": "04.11.2026",
     "tur": "Duyuru"
    },
    {
-    "baslik": "Konya Akşehir OSB Müteşebbis Heyet Başkanlığından İhale İlanı",
-    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#konya-akşehir-osb-müteşebbis-heyet-başkanlığından-ihale-ilan",
-    "tarih": "02.11.2026",
+    "baslik": "Zafer Kalkınma Ajansı Personel Alım İlanı",
+    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#zafer-kalkınma-ajansı-personel-alım-ilanı",
+    "tarih": "04.11.2026",
     "tur": "Duyuru"
    },
    {
-    "baslik": "OSB'lerde Ön Tahsis Yapılacak Alanlara İlişkin Duyuru (Kasım 2026)",
-    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#osb-lerde-ön-tahsis-yapılacak-alanlara-ilişkin-duyuru-kasım-",
-    "tarih": "02.11.2026",
+    "baslik": "T.C. Doğu Karadeniz Kalkınma Ajansı(DOKA) Personel Alım İlanı",
+    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#t-c-doğu-karadeniz-kalkınma-ajansı-doka-personel-alım-ilanı",
+    "tarih": "04.11.2026",
     "tur": "Duyuru"
    },
    {
-    "baslik": "OSB'lerde Arsa Tahsisi Yapılacak Parsellere İlişkin Duyuru (Kasım 2026)",
-    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#osb-lerde-arsa-tahsisi-yapılacak-parsellere-ilişkin-duyuru-k",
-    "tarih": "02.11.2026",
+    "baslik": "Bayburt 2024-2026 Tarihleri arasında Sanayi Sicil Belgesi İptal Edilen İşletmeler",
+    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#bayburt-2024-2026-tarihleri-arasında-sanayi-sicil-belgesi-ip",
+    "tarih": "04.11.2026",
     "tur": "Duyuru"
    },
    {
-    "baslik": "Sürdürülebilirlik Günleri 16’ncı Toplantısı Gerçekleştirildi",
-    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#sürdürülebilirlik-günleri-16-ncı-toplantısı-gerçekleştirildi",
-    "tarih": "30.10.2026",
+    "baslik": "Çorum İskilip OSB Müteşebbis Heyet Başkanlığından İhale İlanı",
+    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#çorum-iskilip-osb-müteşebbis-heyet-başkanlığından-ihale-ilan",
+    "tarih": "04.11.2026",
     "tur": "Duyuru"
    }
   ]
