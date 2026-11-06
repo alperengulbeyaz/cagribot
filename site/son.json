@@ -124,14 +124,14 @@
     "tur": "Etkinlik"
    },
    {
-    "baslik": "Gaziantep Ticaret Odası (GTO) ve TOBB Gaziantep Genç Girişimciler Kurulu koordinasyonunda; TOBB İstanbul GGK Başkanı Sayın Pelin Karadeniz…",
-    "link": "https://www.instagram.com/p/De2M9L1jrxy/",
+    "baslik": "Gaziantep Üniversitesi (GAÜN), Fırat Üniversitesi ve Kahramanmaraş İstiklal Üniversitesi iş birliğinde düzenlenen Patent Arena Bölgesel…",
+    "link": "https://www.instagram.com/p/DfVJNaLDoUK/",
     "tarih": "",
     "tur": "Etkinlik"
    },
    {
-    "baslik": "EPDK ve ELDER iş birliğiyle hayata geçirilen Enerjim Sensin Hızlandırma Programı’nda finale kalan 20 girişim arasında yer alan firmamız…",
-    "link": "https://www.instagram.com/p/DezLTUzjiqe/",
+    "baslik": "Fırat Üniversitesi Rektör Yardımcısı Sayın Prof. Dr. Mehmet Yılmaz ve Fırat Teknokent Genel Müdürü Sayın Prof. Dr. Yalın Kılıç Türel, HKÜ…",
+    "link": "https://www.instagram.com/p/DfU5wyADqvQ/",
     "tarih": "",
     "tur": "Etkinlik"
    }
@@ -164,6 +164,12 @@
   "kategori": "TÜBİTAK",
   "items": [
    {
+    "baslik": "TÜBİTAK Bilim Söyleşileri 2026 Yılı Başvurularının Süresi Uzatıldı",
+    "link": "https://tubitak.gov.tr/tr/duyuru/tubitak-bilim-soylesileri-2026-yili-basvurularinin-suresi-uzatildi",
+    "tarih": "05.11.2026",
+    "tur": "Duyuru"
+   },
+   {
     "baslik": "2244–Sanayi Doktora Programı 2026 Yılı Çağrısı Açıldı",
     "link": "https://tubitak.gov.tr/tr/duyuru/2244-sanayi-doktora-programi-2026-yili-cagrisi-acildi-0",
     "tarih": "04.11.2026",
@@ -184,12 +190,6 @@
    {
     "baslik": "2508 TÜBİTAK – Slovenya Araştırma ve Yenilik Ajansı (ARIS) İkili İş Birliği Programı 2026 Yılı Çağrısı Açıldı",
     "link": "https://tubitak.gov.tr/tr/duyuru/2508-tubitak-slovenya-arastirma-ve-yenilik-ajansi-aris-ikili-birligi-programi-2026-yili-cagrisi-acildi",
-    "tarih": "27.10.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "Bütünleşik Algılama ve Haberleşme Kış Okulu 2026 Yılı Başvuruları Başladı",
-    "link": "https://tubitak.gov.tr/tr/duyuru/butunlesik-algilama-ve-haberlesme-kis-okulu-2026-yili-basvurulari-basladi",
     "tarih": "27.10.2026",
     "tur": "Duyuru"
    }
@@ -304,6 +304,18 @@
   "kategori": "Kalkınma Ajansları",
   "items": [
    {
+    "baslik": "202605KASIM Zafer Kalkınma Ajansı Personel Alım İlanı |",
+    "link": "https://www.dogaka.gov.tr/duyuru/zafer-kalkinma-ajansi-personel-alim-ilani/858",
+    "tarih": "05.11.2026",
+    "tur": "Duyuru"
+   },
+   {
+    "baslik": "202605KASIM T.C. Doğu Karadeniz Kalkınma Ajansı(DOKA) Personel Alım İlanı |",
+    "link": "https://www.dogaka.gov.tr/duyuru/t-c-dogu-karadeniz-kalkinma-ajansi-doka-personel-alim-ilani/857",
+    "tarih": "05.11.2026",
+    "tur": "Duyuru"
+   },
+   {
     "baslik": "202627EKİM Ulusal Staj Programı Başvuruları Başlıyor! |",
     "link": "https://www.dogaka.gov.tr/duyuru/ulusal-staj-programi-basvurulari-basliyor/856",
     "tarih": "27.10.2026",
@@ -319,18 +331,6 @@
     "baslik": "202623EKİM ENHANCER PRO Hızlandırma ve Orta Ölçekli İşletme Hibe Programları İlan Edildi |",
     "link": "https://www.dogaka.gov.tr/duyuru/enhancer-pro-hizlandirma-ve-orta-olcekli-isletme-hibe-programlari-ilan-edildi/854",
     "tarih": "23.10.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "202615EKİM T.C. İSTANBUL KALKINMA AJANSI PERSONEL ALIM İLANI |",
-    "link": "https://www.dogaka.gov.tr/duyuru/t-c-istanbul-kalkinma-ajansi-personel-alim-ilani/853",
-    "tarih": "15.10.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "202615EKİM Mevlana Kalkınma Ajansı Personel Alım İlanı |",
-    "link": "https://www.dogaka.gov.tr/duyuru/mevlana-kalkinma-ajansi-personel-alim-ilani/852",
-    "tarih": "15.10.2026",
     "tur": "Duyuru"
    }
   ]
@@ -444,6 +444,12 @@
   "kategori": "Sanayi ve Teknoloji Bakanlığı",
   "items": [
    {
+    "baslik": "BAKAN KACIR, 17. BOĞAZİÇİ ZİRVESİ’NE KATILDI",
+    "link": "https://www.sanayi.gov.tr/medya/haber/bakan-kacir-17-bogazici-zirvesine-katildi",
+    "tarih": "05.11.2026",
+    "tur": "Haber"
+   },
+   {
     "baslik": "2027 YILI BÜTÇESİ TBMM PLAN VE BÜTÇE KOMİSYONUNDA",
     "link": "https://www.sanayi.gov.tr/medya/haber/2027-yili-butcesi-tbmm-plan-ve-butce-komisyonunda",
     "tarih": "02.11.2026",
@@ -464,12 +470,6 @@
    {
     "baslik": "BAKAN KACIR’A FAHRİ DOKTORA",
     "link": "https://www.sanayi.gov.tr/medya/haber/bakan-kacira-fahri-doktora",
-    "tarih": "22.10.2026",
-    "tur": "Haber"
-   },
-   {
-    "baslik": "OSB SAYISI 374’E YÜKSELDİ",
-    "link": "https://www.sanayi.gov.tr/medya/haber/osb-sayisi-374e-yukseldi",
     "tarih": "22.10.2026",
     "tur": "Haber"
    }
