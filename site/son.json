@@ -339,6 +339,12 @@
   "kategori": "Kalkınma Ajansları",
   "items": [
    {
+    "baslik": "Osmaniye Korkut Ata Üniversitesi Öğrencilerinden Ajansımıza Ziyaret | ...",
+    "link": "https://www.dogaka.gov.tr/haber/osmaniye-korkut-ata-universitesi-ogrencilerinden-ajansimiza-ziyaret/2392",
+    "tarih": "06.11.2026",
+    "tur": "Haber"
+   },
+   {
     "baslik": "MKÜ Meslek Yüksekokulu Öğrencilerine Yönelik Destek Mekanizmaları Bilgilendirme Toplantısı Gerçekleştirildi | ...",
     "link": "https://www.dogaka.gov.tr/haber/mku-meslek-yuksekokulu-ogrencilerine-yonelik-destek-mekanizmalari-bilgilendirme-toplantisi-gerceklestirildi/2391",
     "tarih": "22.10.2026",
@@ -361,12 +367,6 @@
     "link": "https://www.dogaka.gov.tr/haber/dijital-becerilerle-gelecege-hazirlaniyorlar/2388",
     "tarih": "11.09.2026",
     "tur": "Haber"
-   },
-   {
-    "baslik": "Emekle Yoğrulan Bir Başarı Hikâyesi | ...",
-    "link": "https://www.dogaka.gov.tr/haber/emekle-yogrulan-bir-basari-hikayesi/2387",
-    "tarih": "10.09.2026",
-    "tur": "Haber"
    }
   ]
  },
@@ -374,15 +374,21 @@
   "kategori": "Savunma Sanayii",
   "items": [
    {
-    "baslik": "Sabiha Gökçen Uluslararası Havalimanı Üçüncü Terminal Binası ve Mütemmimleri Projesinin Yap-İşlet-Devret Modeli Çerçevesinde…",
-    "link": "https://www.ssb.gov.tr/duyuru/sabiha-gokcen-uluslararasi-havalimani-ucuncu-terminal-binasi-ve-mutemmimleri-projesinin-yap-islet-devret-modeli-cercevesinde-yaptirilmasina-iliskin-ihale-HeHjnt",
-    "tarih": "04.11.2026",
+    "baslik": "Savunma Sanayii Uzman Yardımcılığı Giriş Sınavına Katılmaya Hak Kazanan Adaylara Duyuru",
+    "link": "https://www.ssb.gov.tr/duyuru/savunma-sanayii-uzman-yardimciligi-giris-sinavina-katilmaya-hak-kazanan-adaylara-duyuru-Ekl8uy",
+    "tarih": "06.11.2026",
     "tur": "Duyuru"
    },
    {
     "baslik": "Savunma ve Havacılık Sektöründe Alt Yüklenici ve Tedarik Yönetimi Çalıştayı Sunumları",
     "link": "https://www.ssb.gov.tr/duyuru/savunma-ve-havacilik-sektorunde-alt-yuklenici-ve-tedarik-yonetimi-calistayi-sunumlari-Lngucg",
-    "tarih": "21.10.2026",
+    "tarih": "06.11.2026",
+    "tur": "Duyuru"
+   },
+   {
+    "baslik": "Sabiha Gökçen Uluslararası Havalimanı Üçüncü Terminal Binası ve Mütemmimleri Projesinin Yap-İşlet-Devret Modeli Çerçevesinde…",
+    "link": "https://www.ssb.gov.tr/duyuru/sabiha-gokcen-uluslararasi-havalimani-ucuncu-terminal-binasi-ve-mutemmimleri-projesinin-yap-islet-devret-modeli-cercevesinde-yaptirilmasina-iliskin-ihale-HeHjnt",
+    "tarih": "04.11.2026",
     "tur": "Duyuru"
    },
    {
@@ -395,12 +401,6 @@
     "baslik": "İnsansız Hava Araçlarına Entegre Yangın Söndürme Faydalı Yükü Bilgi İstek Dokümanı Teslim Alma Tarihi Uzatımı Duyurusu",
     "link": "https://www.ssb.gov.tr/duyuru/insansiz-hava-araclarina-entegre-yangin-sondurme-faydali-yuku-bilgi-istek-dokumani-teslim-alma-tarihi-uzatimi-duyurusu-xGAbWn",
     "tarih": "15.10.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "T.C. Cumhurbaşkanlığı Savunma Sanayii Başkanlığı Savunma Sanayii Uzman Yardımcılığı Giriş Sınavı",
-    "link": "https://www.ssb.gov.tr/duyuru/tc-cumhurbaskanligi-savunma-sanayii-baskanligi-savunma-sanayii-uzman-yardimciligi-giris-sinavi-xVQq8d",
-    "tarih": "09.10.2026",
     "tur": "Duyuru"
    }
   ]
@@ -479,6 +479,24 @@
   "kategori": "Sanayi ve Teknoloji Bakanlığı",
   "items": [
    {
+    "baslik": "Ekim Ayı Saha Ziyaretleri ve Fuar Katılımları Tamamlandı",
+    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#ekim-ayı-saha-ziyaretleri-ve-fuar-katılımları-tamamlandı",
+    "tarih": "06.11.2026",
+    "tur": "Duyuru"
+   },
+   {
+    "baslik": "Uluslararası Güncel Gelişmeler Forumu Ekim Ayı Etkinlikleri Gerçekleştirildi",
+    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#uluslararası-güncel-gelişmeler-forumu-ekim-ayı-etkinlikleri-",
+    "tarih": "06.11.2026",
+    "tur": "Duyuru"
+   },
+   {
+    "baslik": "Sakarya Otomotiv ve Metal İhtisas Organize Sanayi Bölgesi Ait Revizyon İmar Planı Onayı",
+    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#sakarya-otomotiv-ve-metal-ihtisas-organize-sanayi-bölgesi-ai",
+    "tarih": "06.11.2026",
+    "tur": "Duyuru"
+   },
+   {
     "baslik": "Isparta Sanayi Sicil Belgesi İptal Edilen Firmalar (Ekim 2026)",
     "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#ısparta-sanayi-sicil-belgesi-iptal-edilen-firmalar-ekim-2026",
     "tarih": "04.11.2026",
@@ -487,24 +505,6 @@
    {
     "baslik": "Zafer Kalkınma Ajansı Personel Alım İlanı",
     "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#zafer-kalkınma-ajansı-personel-alım-ilanı",
-    "tarih": "04.11.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "T.C. Doğu Karadeniz Kalkınma Ajansı(DOKA) Personel Alım İlanı",
-    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#t-c-doğu-karadeniz-kalkınma-ajansı-doka-personel-alım-ilanı",
-    "tarih": "04.11.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "Bayburt 2024-2026 Tarihleri arasında Sanayi Sicil Belgesi İptal Edilen İşletmeler",
-    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#bayburt-2024-2026-tarihleri-arasında-sanayi-sicil-belgesi-ip",
-    "tarih": "04.11.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "Çorum İskilip OSB Müteşebbis Heyet Başkanlığından İhale İlanı",
-    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#çorum-iskilip-osb-müteşebbis-heyet-başkanlığından-ihale-ilan",
     "tarih": "04.11.2026",
     "tur": "Duyuru"
    }
