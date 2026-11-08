@@ -444,6 +444,12 @@
   "kategori": "Sanayi ve Teknoloji Bakanlığı",
   "items": [
    {
+    "baslik": "BAKAN KACIR, TRT WORLD FORUM 2026’YA KATILDI",
+    "link": "https://www.sanayi.gov.tr/medya/haber/bakan-kacir-trt-world-forum-2026ya-katildi",
+    "tarih": "07.11.2026",
+    "tur": "Haber"
+   },
+   {
     "baslik": "BAKAN KACIR, 17. BOĞAZİÇİ ZİRVESİ’NE KATILDI",
     "link": "https://www.sanayi.gov.tr/medya/haber/bakan-kacir-17-bogazici-zirvesine-katildi",
     "tarih": "05.11.2026",
@@ -465,12 +471,6 @@
     "baslik": "GO! GLOBAL TÜRKİYE 2026 ZİRVESİ",
     "link": "https://www.sanayi.gov.tr/medya/haber/go-global-turkiye-2026-zirvesi",
     "tarih": "23.10.2026",
-    "tur": "Haber"
-   },
-   {
-    "baslik": "BAKAN KACIR’A FAHRİ DOKTORA",
-    "link": "https://www.sanayi.gov.tr/medya/haber/bakan-kacira-fahri-doktora",
-    "tarih": "22.10.2026",
     "tur": "Haber"
    }
   ]
