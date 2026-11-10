@@ -26,6 +26,12 @@
   "kategori": "Adana Teknokent",
   "items": [
    {
+    "baslik": "GDG Adana Toplantısı 3",
+    "link": "https://cukurovateknokent.com/gdg-adana-toplantisi-3/",
+    "tarih": "09.11.2026",
+    "tur": "Haber"
+   },
+   {
     "baslik": "GDG Adana Toplantısı 2",
     "link": "https://cukurovateknokent.com/gdg-adana-toplantisi-2/",
     "tarih": "30.10.2026",
@@ -35,12 +41,6 @@
     "baslik": "PROJE GELİŞTİRME ATÖLYESİ",
     "link": "https://cukurovateknokent.com/proje-gelistirme-atolyesi/",
     "tarih": "28.10.2026",
-    "tur": "Haber"
-   },
-   {
-    "baslik": "GDG ADANA INFO SESSION",
-    "link": "https://cukurovateknokent.com/gdg-adana-info-session/",
-    "tarih": "26.10.2026",
     "tur": "Haber"
    }
   ]
@@ -95,6 +95,12 @@
   "kategori": "Kahramanmaraş Teknokent",
   "items": [
    {
+    "baslik": "Doğu Akdeniz Bölgesel Kariyer Fuarı Başlıyor",
+    "link": "https://teknokentmaras.com/tr/haberler/dogu-akdeniz-bolgesel-kariyer-fuari-basliyor",
+    "tarih": "09.11.2026",
+    "tur": "Haber"
+   },
+   {
     "baslik": "Dijital Dönüşüm Yol Haritası ve Teşvik Fırsatları Webinarı",
     "link": "https://teknokentmaras.com/tr/haberler/dijital-donusum-yol-haritasi-ve-tesvik-firsatlari-webinari",
     "tarih": "22.10.2026",
@@ -104,12 +110,6 @@
     "baslik": "Kahramanmaraş Teknokent TEKNOFEST Güneydoğu’ya Katıldı",
     "link": "https://teknokentmaras.com/tr/haberler/kahramanmaras-teknokent-teknofest-guneydoguya-katildi",
     "tarih": "06.10.2026",
-    "tur": "Haber"
-   },
-   {
-    "baslik": "TGBD Gaziantep Bölgesel Buluşması Gerçekleştirildi",
-    "link": "https://teknokentmaras.com/tr/haberler/tgbd-gaziantep-bolgesel-bulusmasi-gerceklestirildi",
-    "tarih": "01.10.2026",
     "tur": "Haber"
    }
   ]
@@ -304,6 +304,12 @@
   "kategori": "Kalkınma Ajansları",
   "items": [
    {
+    "baslik": "202609KASIM ENHANCER PRO Hibe Programları Bilgilendirme Toplantıları Hatay ve Osmaniye’de Düzenlenecek |",
+    "link": "https://www.dogaka.gov.tr/duyuru/enhancer-pro-hibe-programlari-bilgilendirme-toplantilari-hatay-ve-osmaniye-de-duzenlenecek/859",
+    "tarih": "09.11.2026",
+    "tur": "Duyuru"
+   },
+   {
     "baslik": "202605KASIM Zafer Kalkınma Ajansı Personel Alım İlanı |",
     "link": "https://www.dogaka.gov.tr/duyuru/zafer-kalkinma-ajansi-personel-alim-ilani/858",
     "tarih": "05.11.2026",
@@ -325,12 +331,6 @@
     "baslik": "202626EKİM T.C. Orta Anadolu Kalkınma Ajansı (ORAN) Personel Alım İlanı |",
     "link": "https://www.dogaka.gov.tr/duyuru/t-c-orta-anadolu-kalkinma-ajansi-oran-personel-alim-ilani/855",
     "tarih": "26.10.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "202623EKİM ENHANCER PRO Hızlandırma ve Orta Ölçekli İşletme Hibe Programları İlan Edildi |",
-    "link": "https://www.dogaka.gov.tr/duyuru/enhancer-pro-hizlandirma-ve-orta-olcekli-isletme-hibe-programlari-ilan-edildi/854",
-    "tarih": "23.10.2026",
     "tur": "Duyuru"
    }
   ]
@@ -376,13 +376,13 @@
    {
     "baslik": "Savunma Sanayii Uzman Yardımcılığı Giriş Sınavına Katılmaya Hak Kazanan Adaylara Duyuru",
     "link": "https://www.ssb.gov.tr/duyuru/savunma-sanayii-uzman-yardimciligi-giris-sinavina-katilmaya-hak-kazanan-adaylara-duyuru-Ekl8uy",
-    "tarih": "06.11.2026",
+    "tarih": "09.11.2026",
     "tur": "Duyuru"
    },
    {
     "baslik": "Savunma ve Havacılık Sektöründe Alt Yüklenici ve Tedarik Yönetimi Çalıştayı Sunumları",
     "link": "https://www.ssb.gov.tr/duyuru/savunma-ve-havacilik-sektorunde-alt-yuklenici-ve-tedarik-yonetimi-calistayi-sunumlari-Lngucg",
-    "tarih": "06.11.2026",
+    "tarih": "09.11.2026",
     "tur": "Duyuru"
    },
    {
@@ -444,6 +444,12 @@
   "kategori": "Sanayi ve Teknoloji Bakanlığı",
   "items": [
    {
+    "baslik": "TÜRKİYE-ÇİN YEŞİL KALKINMA İŞ FORUMU",
+    "link": "https://www.sanayi.gov.tr/medya/haber/turkiyecin-yesil-kalkinma-is-forumu",
+    "tarih": "09.11.2026",
+    "tur": "Haber"
+   },
+   {
     "baslik": "BAKAN KACIR, TRT WORLD FORUM 2026’YA KATILDI",
     "link": "https://www.sanayi.gov.tr/medya/haber/bakan-kacir-trt-world-forum-2026ya-katildi",
     "tarih": "07.11.2026",
@@ -466,18 +472,18 @@
     "link": "https://www.sanayi.gov.tr/medya/haber/otomotive-300-milyon-dolarlik-yeni-yatirim",
     "tarih": "26.10.2026",
     "tur": "Haber"
-   },
-   {
-    "baslik": "GO! GLOBAL TÜRKİYE 2026 ZİRVESİ",
-    "link": "https://www.sanayi.gov.tr/medya/haber/go-global-turkiye-2026-zirvesi",
-    "tarih": "23.10.2026",
-    "tur": "Haber"
    }
   ]
  },
  "Sanayi ve Teknoloji Bakanlığı|https://www.sanayi.gov.tr/medya/duyurular/liste": {
   "kategori": "Sanayi ve Teknoloji Bakanlığı",
   "items": [
+   {
+    "baslik": "Demirağ Organize Sanayi Bölgesi Müteşebbis Heyet Başkanlığından İhale İlanı",
+    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#demirağ-organize-sanayi-bölgesi-müteşebbis-heyet-başkanlığın",
+    "tarih": "09.11.2026",
+    "tur": "Duyuru"
+   },
    {
     "baslik": "Ekim Ayı Saha Ziyaretleri ve Fuar Katılımları Tamamlandı",
     "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#ekim-ayı-saha-ziyaretleri-ve-fuar-katılımları-tamamlandı",
@@ -499,12 +505,6 @@
    {
     "baslik": "Isparta Sanayi Sicil Belgesi İptal Edilen Firmalar (Ekim 2026)",
     "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#ısparta-sanayi-sicil-belgesi-iptal-edilen-firmalar-ekim-2026",
-    "tarih": "04.11.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "Zafer Kalkınma Ajansı Personel Alım İlanı",
-    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#zafer-kalkınma-ajansı-personel-alım-ilanı",
     "tarih": "04.11.2026",
     "tur": "Duyuru"
    }
