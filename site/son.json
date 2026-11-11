@@ -164,6 +164,18 @@
   "kategori": "TÜBİTAK",
   "items": [
    {
+    "baslik": "Kişiselleştirilmiş Tıp Avrupa Ortaklığı 2027 Yılı Çağrısı Açıldı",
+    "link": "https://tubitak.gov.tr/tr/duyuru/kisisellestirilmis-tip-avrupa-ortakligi-2027-yili-cagrisi-acildi",
+    "tarih": "10.11.2026",
+    "tur": "Duyuru"
+   },
+   {
+    "baslik": "4006-TÜBİTAK Bilim Fuarları Destekleme Programı 13. Dönem Çağrılarının Başvuru Süresi Uzatıldı",
+    "link": "https://tubitak.gov.tr/tr/duyuru/4006-tubitak-bilim-fuarlari-destekleme-programi-13-donem-cagrilarinin-basvuru-suresi-uzatildi",
+    "tarih": "10.11.2026",
+    "tur": "Duyuru"
+   },
+   {
     "baslik": "1507-KOBİ Ar-Ge Başlangıç Destek Programı ve 1707-Siparişe Dayalı Ar-Ge Projeleri için KOBİ Destekleme Programı 2026 Yılı Çağrılarının…",
     "link": "https://tubitak.gov.tr/tr/duyuru/1507-kobi-ar-ge-baslangic-destek-programi-ve-1707-siparise-dayali-ar-ge-projeleri-icin-kobi-destekleme-programi-2026-yili-cagrilarinin-suresi-uzatildi",
     "tarih": "09.11.2026",
@@ -179,18 +191,6 @@
     "baslik": "2244–Sanayi Doktora Programı 2026 Yılı Çağrısı Açıldı",
     "link": "https://tubitak.gov.tr/tr/duyuru/2244-sanayi-doktora-programi-2026-yili-cagrisi-acildi-0",
     "tarih": "04.11.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "2549–Polonya Ulusal Araştırma ve Geliştirme Merkezi (NCBR) ile İkili İşbirliği Programı Başvuru Sonuçları Açıklandı",
-    "link": "https://tubitak.gov.tr/tr/duyuru/2549-polonya-ulusal-arastirma-ve-gelistirme-merkezi-ncbr-ile-ikili-isbirligi-programi-basvuru-sonuclari-aciklandi",
-    "tarih": "03.11.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "2247-C Stajyer Araştırmacı Burs Programı (STAR) 2026 Yılı 2. Dönem STAR Lisans ve STAR Öğretmen Çağrıları Açıldı",
-    "link": "https://tubitak.gov.tr/tr/duyuru/2247-c-stajyer-arastirmaci-burs-programi-star-2026-yili-2-donem-star-lisans-ve-star-ogretmen-cagrilari-acildi",
-    "tarih": "02.11.2026",
     "tur": "Duyuru"
    }
   ]
@@ -339,6 +339,12 @@
   "kategori": "Kalkınma Ajansları",
   "items": [
    {
+    "baslik": "ENHANCER PRO Hibe Programları Hatay’da Tanıtıldı | ...",
+    "link": "https://www.dogaka.gov.tr/haber/enhancer-pro-hibe-programlari-hatay-da-tanitildi/2393",
+    "tarih": "11.11.2026",
+    "tur": "Haber"
+   },
+   {
     "baslik": "Osmaniye Korkut Ata Üniversitesi Öğrencilerinden Ajansımıza Ziyaret | ...",
     "link": "https://www.dogaka.gov.tr/haber/osmaniye-korkut-ata-universitesi-ogrencilerinden-ajansimiza-ziyaret/2392",
     "tarih": "06.11.2026",
@@ -360,12 +366,6 @@
     "baslik": "Kahramanmaraş’ta SEECO Projesi Kapsamında Dijital Dönüşüm Geçim Kaynağı Tesisi Kuruldu | ...",
     "link": "https://www.dogaka.gov.tr/haber/kahramanmaras-ta-seeco-projesi-kapsaminda-dijital-donusum-gecim-kaynagi-tesisi-kuruldu/2389",
     "tarih": "16.09.2026",
-    "tur": "Haber"
-   },
-   {
-    "baslik": "Dijital Becerilerle Geleceğe Hazırlanıyorlar | ...",
-    "link": "https://www.dogaka.gov.tr/haber/dijital-becerilerle-gelecege-hazirlaniyorlar/2388",
-    "tarih": "11.09.2026",
     "tur": "Haber"
    }
   ]
@@ -410,6 +410,12 @@
   "items": [
    {
     "baslik": "Türk Savunma Sanayiinde Bu Hafta Neler Oldu?",
+    "link": "https://www.ssb.gov.tr/haber/turk-savunma-sanayiinde-bu-hafta-neler-oldu-2026-11-10",
+    "tarih": "10.11.2026",
+    "tur": "Haber"
+   },
+   {
+    "baslik": "Türk Savunma Sanayiinde Bu Hafta Neler Oldu?",
     "link": "https://www.ssb.gov.tr/haber/turk-savunma-sanayiinde-bu-hafta-neler-oldu-2026-11-02",
     "tarih": "02.11.2026",
     "tur": "Haber"
@@ -430,12 +436,6 @@
     "baslik": "Türk Savunma Sanayiinde Bu Hafta Neler Oldu?",
     "link": "https://www.ssb.gov.tr/haber/turk-savunma-sanayiinde-bu-hafta-neler-oldu-2026-10-12",
     "tarih": "12.10.2026",
-    "tur": "Haber"
-   },
-   {
-    "baslik": "Türk Savunma Sanayiinde Bu Hafta Neler Oldu?",
-    "link": "https://www.ssb.gov.tr/haber/turk-savunma-sanayiinde-bu-hafta-neler-oldu-2026-10-05",
-    "tarih": "05.10.2026",
     "tur": "Haber"
    }
   ]
