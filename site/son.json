@@ -444,6 +444,12 @@
   "kategori": "Sanayi ve Teknoloji Bakanlığı",
   "items": [
    {
+    "baslik": "BAKAN KACIR, “KÜRESEL FİNANS ZİRVESİ”NE KATILDI",
+    "link": "https://www.sanayi.gov.tr/medya/haber/bakan-kacir-kuresel-finans-zirvesine-katildi",
+    "tarih": "11.11.2026",
+    "tur": "Haber"
+   },
+   {
     "baslik": "TÜRKİYE-ÇİN YEŞİL KALKINMA İŞ FORUMU",
     "link": "https://www.sanayi.gov.tr/medya/haber/turkiyecin-yesil-kalkinma-is-forumu",
     "tarih": "09.11.2026",
@@ -466,12 +472,6 @@
     "link": "https://www.sanayi.gov.tr/medya/haber/2027-yili-butcesi-tbmm-plan-ve-butce-komisyonunda",
     "tarih": "02.11.2026",
     "tur": "Haber"
-   },
-   {
-    "baslik": "OTOMOTİVE 300 MİLYON DOLARLIK YENİ YATIRIM",
-    "link": "https://www.sanayi.gov.tr/medya/haber/otomotive-300-milyon-dolarlik-yeni-yatirim",
-    "tarih": "26.10.2026",
-    "tur": "Haber"
    }
   ]
  },
@@ -479,33 +479,33 @@
   "kategori": "Sanayi ve Teknoloji Bakanlığı",
   "items": [
    {
-    "baslik": "Demirağ Organize Sanayi Bölgesi Müteşebbis Heyet Başkanlığından İhale İlanı",
-    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#demirağ-organize-sanayi-bölgesi-müteşebbis-heyet-başkanlığın",
-    "tarih": "09.11.2026",
+    "baslik": "Şanlıurfa Gıda İhtisas OSB Yönetım Kurulu Başkanlığından İhale İlanı",
+    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#şanlıurfa-gıda-ihtisas-osb-yönetım-kurulu-başkanlığından-iha",
+    "tarih": "11.11.2026",
     "tur": "Duyuru"
    },
    {
-    "baslik": "Ekim Ayı Saha Ziyaretleri ve Fuar Katılımları Tamamlandı",
-    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#ekim-ayı-saha-ziyaretleri-ve-fuar-katılımları-tamamlandı",
-    "tarih": "06.11.2026",
+    "baslik": "Kocaeli Global Karma OSB Altyapı Yapım İşi İhale İlanı",
+    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#kocaeli-global-karma-osb-altyapı-yapım-işi-ihale-ilanı",
+    "tarih": "11.11.2026",
     "tur": "Duyuru"
    },
    {
-    "baslik": "Uluslararası Güncel Gelişmeler Forumu Ekim Ayı Etkinlikleri Gerçekleştirildi",
-    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#uluslararası-güncel-gelişmeler-forumu-ekim-ayı-etkinlikleri-",
-    "tarih": "06.11.2026",
+    "baslik": "Tokat, Erbaa, Toprak Sanayi İhtisas+Karma Organize Sanayi Bölgesi Revizyon İmar Planı",
+    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#tokat-erbaa-toprak-sanayi-ihtisas-karma-organize-sanayi-bölg",
+    "tarih": "11.11.2026",
     "tur": "Duyuru"
    },
    {
-    "baslik": "Sakarya Otomotiv ve Metal İhtisas Organize Sanayi Bölgesi Ait Revizyon İmar Planı Onayı",
-    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#sakarya-otomotiv-ve-metal-ihtisas-organize-sanayi-bölgesi-ai",
-    "tarih": "06.11.2026",
+    "baslik": "Milas OSB Müteşebbis Heyet Başkanlığından İhale İlanı",
+    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#milas-osb-müteşebbis-heyet-başkanlığından-ihale-ilanı",
+    "tarih": "10.11.2026",
     "tur": "Duyuru"
    },
    {
-    "baslik": "Isparta Sanayi Sicil Belgesi İptal Edilen Firmalar (Ekim 2026)",
-    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#ısparta-sanayi-sicil-belgesi-iptal-edilen-firmalar-ekim-2026",
-    "tarih": "04.11.2026",
+    "baslik": "Boyabat Organize Sanayi Bölgesi İmar Planı Değişikliği",
+    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#boyabat-organize-sanayi-bölgesi-imar-planı-değişikliği",
+    "tarih": "10.11.2026",
     "tur": "Duyuru"
    }
   ]
