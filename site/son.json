@@ -95,6 +95,12 @@
   "kategori": "Kahramanmaraş Teknokent",
   "items": [
    {
+    "baslik": "Kahramanmaraş Teknokent, DABKAF’26’nın Altın Sponsoru Oldu",
+    "link": "https://teknokentmaras.com/tr/haberler/kahramanmaras-teknokent-dabkaf26nin-altin-sponsoru-oldu",
+    "tarih": "13.11.2026",
+    "tur": "Haber"
+   },
+   {
     "baslik": "Doğu Akdeniz Bölgesel Kariyer Fuarı Başlıyor",
     "link": "https://teknokentmaras.com/tr/haberler/dogu-akdeniz-bolgesel-kariyer-fuari-basliyor",
     "tarih": "09.11.2026",
@@ -104,12 +110,6 @@
     "baslik": "Dijital Dönüşüm Yol Haritası ve Teşvik Fırsatları Webinarı",
     "link": "https://teknokentmaras.com/tr/haberler/dijital-donusum-yol-haritasi-ve-tesvik-firsatlari-webinari",
     "tarih": "22.10.2026",
-    "tur": "Haber"
-   },
-   {
-    "baslik": "Kahramanmaraş Teknokent TEKNOFEST Güneydoğu’ya Katıldı",
-    "link": "https://teknokentmaras.com/tr/haberler/kahramanmaras-teknokent-teknofest-guneydoguya-katildi",
-    "tarih": "06.10.2026",
     "tur": "Haber"
    }
   ]
@@ -141,6 +141,12 @@
   "kategori": "Niğde Teknokent",
   "items": [
    {
+    "baslik": "Niğde Ticaret ve Sanayi Odası’na Hayırlı Olsun Ziyareti",
+    "link": "https://www.nigdeteknopark.com/2026/11/13/nigde-ticaret-ve-sanayi-odasina-hayirli-olsun-ziyareti/",
+    "tarih": "13.11.2026",
+    "tur": "Haber"
+   },
+   {
     "baslik": "🚀 Fikrini Girişime Dönüştürmeye Hazır Mısın?",
     "link": "https://www.nigdeteknopark.com/2026/11/12/%f0%9f%9a%80-fikrini-girisime-donusturmeye-hazir-misin/",
     "tarih": "12.11.2026",
@@ -151,18 +157,24 @@
     "link": "https://www.nigdeteknopark.com/2026/10/23/girisimci-rampasi-basvurulari-uzatildi/",
     "tarih": "23.10.2026",
     "tur": "Haber"
-   },
-   {
-    "baslik": "Kastamonu Ar-Ge ve İnovasyon Proje Pazarı Ödül Töreni’ne Katıldık",
-    "link": "https://www.nigdeteknopark.com/2026/10/22/kastamonu-ar-ge-ve-inovasyon-proje-pazari-odul-torenine-katildik/",
-    "tarih": "22.10.2026",
-    "tur": "Haber"
    }
   ]
  },
  "TÜBİTAK|https://tubitak.gov.tr/tr/duyuru": {
   "kategori": "TÜBİTAK",
   "items": [
+   {
+    "baslik": "4004-Doğa Eğitimi ve Bilim Okulları Destekleme Programı’nın 20. Dönem Çağrısı Yayınlandı",
+    "link": "https://tubitak.gov.tr/tr/duyuru/4004-doga-egitimi-ve-bilim-okullari-destekleme-programinin-20-donem-cagrisi-yayinlandi",
+    "tarih": "13.11.2026",
+    "tur": "Duyuru"
+   },
+   {
+    "baslik": "4005-Yenilikçi Eğitim Uygulamaları Destekleme Programı’nın 14. Çağrısı Yayınlandı",
+    "link": "https://tubitak.gov.tr/tr/duyuru/4005-yenilikci-egitim-uygulamalari-destekleme-programinin-14-cagrisi-yayinlandi",
+    "tarih": "13.11.2026",
+    "tur": "Duyuru"
+   },
    {
     "baslik": "Kişiselleştirilmiş Tıp Avrupa Ortaklığı 2027 Yılı Çağrısı Açıldı",
     "link": "https://tubitak.gov.tr/tr/duyuru/kisisellestirilmis-tip-avrupa-ortakligi-2027-yili-cagrisi-acildi",
@@ -179,18 +191,6 @@
     "baslik": "1507-KOBİ Ar-Ge Başlangıç Destek Programı ve 1707-Siparişe Dayalı Ar-Ge Projeleri için KOBİ Destekleme Programı 2026 Yılı Çağrılarının…",
     "link": "https://tubitak.gov.tr/tr/duyuru/1507-kobi-ar-ge-baslangic-destek-programi-ve-1707-siparise-dayali-ar-ge-projeleri-icin-kobi-destekleme-programi-2026-yili-cagrilarinin-suresi-uzatildi",
     "tarih": "09.11.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "TÜBİTAK Bilim Söyleşileri 2026 Yılı Başvurularının Süresi Uzatıldı",
-    "link": "https://tubitak.gov.tr/tr/duyuru/tubitak-bilim-soylesileri-2026-yili-basvurularinin-suresi-uzatildi",
-    "tarih": "05.11.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "2244–Sanayi Doktora Programı 2026 Yılı Çağrısı Açıldı",
-    "link": "https://tubitak.gov.tr/tr/duyuru/2244-sanayi-doktora-programi-2026-yili-cagrisi-acildi-0",
-    "tarih": "04.11.2026",
     "tur": "Duyuru"
    }
   ]
@@ -479,33 +479,33 @@
   "kategori": "Sanayi ve Teknoloji Bakanlığı",
   "items": [
    {
+    "baslik": "Bursa Bursa-İlanen Tebligat",
+    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#bursa-bursa-ilanen-tebligat",
+    "tarih": "13.11.2026",
+    "tur": "Duyuru"
+   },
+   {
+    "baslik": "Mardin Midyat OSB Müteşebbis Heyet Başkanlığından İhale İlanı",
+    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#mardin-midyat-osb-müteşebbis-heyet-başkanlığından-ihale-ilan",
+    "tarih": "13.11.2026",
+    "tur": "Duyuru"
+   },
+   {
+    "baslik": "Asım Kibar Organize Sanayi Bölgesi Solar Çamur Kurutma Tesisi Tasarım ve Yapım İşi İlanı",
+    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#asım-kibar-organize-sanayi-bölgesi-solar-çamur-kurutma-tesis",
+    "tarih": "13.11.2026",
+    "tur": "Duyuru"
+   },
+   {
+    "baslik": "Gaziantep İlanen Tebligat - İdari Para Cezası Kararları",
+    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#gaziantep-ilanen-tebligat-idari-para-cezası-kararları",
+    "tarih": "13.11.2026",
+    "tur": "Duyuru"
+   },
+   {
     "baslik": "Tarsus OSB 1/5000 Nazım ve 1/1000 Ölçekli İlave Değişiklik İmar Planı Onayı",
     "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#tarsus-osb-1-5000-nazım-ve-1-1000-ölçekli-ilave-değişiklik-i",
     "tarih": "12.11.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "Tokat, Erbaa, Toprak Sanayi İhtisas+Karma Organize Sanayi Bölgesi Revizyon İmar Planı",
-    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#tokat-erbaa-toprak-sanayi-ihtisas-karma-organize-sanayi-bölg",
-    "tarih": "11.11.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "Şanlıurfa Gıda İhtisas OSB Yönetım Kurulu Başkanlığından İhale İlanı",
-    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#şanlıurfa-gıda-ihtisas-osb-yönetım-kurulu-başkanlığından-iha",
-    "tarih": "11.11.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "Kocaeli Global Karma OSB Altyapı Yapım İşi İhale İlanı",
-    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#kocaeli-global-karma-osb-altyapı-yapım-işi-ihale-ilanı",
-    "tarih": "11.11.2026",
-    "tur": "Duyuru"
-   },
-   {
-    "baslik": "Milas OSB Müteşebbis Heyet Başkanlığından İhale İlanı",
-    "link": "https://www.sanayi.gov.tr/medya/duyurular/liste#milas-osb-müteşebbis-heyet-başkanlığından-ihale-ilanı",
-    "tarih": "10.11.2026",
     "tur": "Duyuru"
    }
   ]
